@@ -37,7 +37,6 @@ Awesome CSS
 - [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 - [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
 - [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) bt [Brian Lovin](https://twitter.com/brian_lovin)
-- [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [jacob](https://twitter.com/fat)
 
 ## Styleguide
 
