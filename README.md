@@ -29,7 +29,8 @@ Awesome CSS
 - [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework
 - [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework
 - [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass
-- [Sussy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
+- [960 Grid System](http://960.gs/) - An effort to streamline web development workflow
+- [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
 - [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
 
 ## Case Studies
