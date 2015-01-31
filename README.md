@@ -41,7 +41,7 @@ Awesome CSS
 ## Styleguide
 
 - [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
-- [CSS Guidelines (2.2.2)](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
+- [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
 - [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
 - [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
