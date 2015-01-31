@@ -30,7 +30,7 @@ Awesome CSS
 - [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework
 - [spaceBase](http://spacebase.space150.com/)
 
-## How to use
+## Case Studies
 
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
