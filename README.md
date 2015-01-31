@@ -7,7 +7,7 @@ Awesome CSS
 
 - [Preprocessors](#preprocessors)
 - [Framework](#frameworks)
-- [How to use](#how-to-use)
+- [Case Studies](#case-studies)
 - [Styleguide](#styleguide)
 - [License](#license)
 
