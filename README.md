@@ -39,7 +39,9 @@ Awesome CSS
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
 - [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 - [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
-- [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) bt [Brian Lovin](https://twitter.com/brian_lovin)
+- [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin)
+- [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
+- [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 
 ## Styleguide
 
