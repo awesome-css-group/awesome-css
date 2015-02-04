@@ -42,6 +42,7 @@ Awesome CSS
 - [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin)
 - [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
 - [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
+- [Bugsnag's CSS Architecture](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
 
 ## Styleguide
 
