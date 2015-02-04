@@ -33,7 +33,7 @@ Awesome CSS
 - [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
 - [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
 
-## Case Studies
+## CSS Development at Large-Scale Websites
 
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
