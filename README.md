@@ -57,6 +57,10 @@ Awesome CSS
 - [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
 - [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 
+## References
+
+- [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
+
 ## License
 
 [MIT License](http://sotayamashita.mit-license.org/) © [Sota Yamashita](https://twitter.com/sota0805)
