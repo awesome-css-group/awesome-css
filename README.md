@@ -43,6 +43,8 @@ Awesome CSS
 - [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
 - [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 - [Bugsnag's CSS Architecture](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
+- [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis
+- [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 
 ## Styleguide
 
