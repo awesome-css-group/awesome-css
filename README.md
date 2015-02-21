@@ -15,6 +15,7 @@ Awesome CSS
 
 - [SASS](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
 - [LESS](http://lesscss.org/) -  Backwards compatible with CSS and the extra features it adds use existing CSS syntax
+- [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
 - [Stylues](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs
 - [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
 - [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
