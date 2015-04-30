@@ -5,11 +5,16 @@ Awesome CSS
 
 # Table of Contents
 
-- [Preprocessors](#preprocessors)
-- [Framework](#frameworks)
-- [Case Studies](#case-studies)
-- [Styleguide](#styleguide)
+- [Awesome CSS](#awesome-css)
+  - [Preprocessors](#preprocessors)
+  - [Framework](#frameworks)
+  - [Case Studies](#case-studies)
+  - [Styleguide](#styleguide)
+  - [Resources](#resources)
 - [Resources](#resources)
+    - [Podcasts](#podcasts)
+    - [Twitter](#twitter)
+- [Contributing](#contributing)
 - [License](#license)
 
 # Preprocessors
