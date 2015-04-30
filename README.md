@@ -3,8 +3,6 @@ Awesome CSS
 
 > A curated list of css lists
 
-# Table of Contents
-
 - [Awesome CSS](#awesome-css)
   - [Preprocessors](#preprocessors)
   - [Framework](#frameworks)
