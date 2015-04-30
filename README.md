@@ -75,45 +75,45 @@ Something to listen to while programming.
 
 Active accounts to follow.
 
-- [CSS Animation](https://twitter.com/cssanimation) -
-- [Andrey Sitnik](https://twitter.com/andreysitnik) - Author of @Autoprefixer, http://easings.net  and @PostCSS.
-- [Evangelina Ferreira](https://twitter.com/evaferreira92) - Web Designer. Professor at @multimedial_utn HTML5 & CSS Freak. Ocassional Translator
-- [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5
-- [Hugo Giraudel](https://twitter.com/HugoGiraudel) - CSS goblin & Sass hacker at @edenspiekermann.
-- [Guy Routledge](https://twitter.com/guyroutledge) - Front-end dev, Teacher @GA_London, Screencaster at http://www.atozcss.com , property snob, Foodie
-- [Heydon Pickering](https://twitter.com/heydonworks) - Moderate consumer of rice. Also a UX designer, author, @smashingmag editor and programmer.
-- [Adam Morse](https://twitter.com/mrmrs_) - Advocate for users and open-source
-- [Donovan Hutchinson](https://twitter.com/donovanh) - Designer, developer, writer. Occasionally blogs at http://Hop.ie , and currently building @cssanimation
-- [CSS Commits](https://twitter.com/CSScommits) - Latest commits to @CSSWG’s public Mercurial repository
-- [Scott Jehl](https://twitter.com/scottjehl) - Author of @responsiblerwd, now on sale from @abookapart.
-- [Dudley Storey](https://twitter.com/dudleystorey) - Web development writer, teacher, and speaker.
-- [Zoe M. Gillenwater](https://twitter.com/zomigi) - Web designer/developer specializing in CSS, RWD, UX, & accessibility.
-- [Ben Briggs](https://twitter.com/ben_eb) - Final year web technologies student. node.js, javascript, open source modules, client side optimisation, web performance.
-- [Paul Lewis](https://twitter.com/aerotwist) - Googler who noodles with code and design.
-- [Thierry Koblentz](https://twitter.com/thierrykoblentz) - CSSer @ Yahoo Only Tweeting Tech
-- [Nicolas Gallagher](https://twitter.com/necolas) - Software Engineer at @twitter.
-- [Harry Roberts](https://twitter.com/csswizardry)- Consultant Front-end Architect: @google, @Etsy, @kickstarter, @BBC, @Deloitte, @FT, more
-- [Phil Walton](https://twitter.com/philwalton) - Engineer at Google • Open Source Advocate • Developer • Designer • Writer
-- [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
-- [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS & HTML are my crayons ༶ Interested in Cognitive Science, AI, HCI, UI Design & Astrophysics ༶ Digital nomad
-- [Una Kravets](https://twitter.com/Una) - Front-end @IBMDesign. Sassvocate, community builder, & handcrafter. STEMinist :) Open source all the things!
-- [Chris Coyier](https://twitter.com/chriscoyier) - Designer @CodePen. Writer @Real_CSS_Tricks.
-- [Nicole Sullivan](https://twitter.com/stubbornella) - GEEK!
-- [Eric Bidelman](https://twitter.com/ebidel) - Engineer at Google working on Chrome, web components, and Polymer
-- [Patrick Hamann](https://twitter.com/patrickhamann) - Lover of mountains, craft beers and discovering new food.
-- [Dave McFarland](https://twitter.com/davemcfarland) - Web developer, author of CSS: The Missing Manual, JavaScript & jQuery
-- [L. David Baron](https://twitter.com/davidbaron) - Mozilla developer, CSS and W3C standards diplomat
-- [Daniel Glazman](https://twitter.com/glazou)W3C CSS Working Group Co-chairman, entrepreneur, software engineer, geek, father of two, polyglot, duck lover. Nah. Tweets are strictly mine.
-- [The Chris Eppstein](https://twitter.com/chriseppstein) - Loves love. Hates hate. Has a kick-ass family. Writes code. Leads stylesheet tech @LinkedIn.
-- [앗킨스 탭](https://twitter.com/tabatkins) - Literally Jenn Schiffer's Mom
-- [Natalie Weizenbaum](https://twitter.com/nex3) - Trans coder lady. Lead designer/developer of @SassCSS, working for @google on @dart_lang
-- [Brad Frost](https://twitter.com/brad_frost) - Web designer, speaker, writer, consultant, musician
-- [Maxime Thirouin](https://twitter.com/MoOx) - Freelance front-end vigilante, UI/UX developer.
-- [Mark Otto](https://twitter.com/mdo) - GitHub and Bootstrap. Formerly at Twitter. Huge nerd.
-- [Simon](https://twitter.com/simurai) - UI designer, CSS doodler
-- [Connor Sears](https://twitter.com/connors) - Designer at GitHub.
-- [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
-- [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
+* [CSS Animation](https://twitter.com/cssanimation) -
+* [Andrey Sitnik](https://twitter.com/andreysitnik) - Author of @Autoprefixer, http://easings.net  and @PostCSS.
+* [Evangelina Ferreira](https://twitter.com/evaferreira92) - Web Designer. Professor at @multimedial_utn HTML5 & CSS Freak. Ocassional Translator
+* [Sara Soueidan](https://twitter.com/SaraSoueidan) - Author of the @Codrops CSS Reference & Co-author of the Smashing Book #5
+* [Hugo Giraudel](https://twitter.com/HugoGiraudel) - CSS goblin & Sass hacker at @edenspiekermann.
+* [Guy Routledge](https://twitter.com/guyroutledge) - Front-end dev, Teacher @GA_London, Screencaster at http://www.atozcss.com , property snob, Foodie
+* [Heydon Pickering](https://twitter.com/heydonworks) - Moderate consumer of rice. Also a UX designer, author, @smashingmag editor and programmer.
+* [Adam Morse](https://twitter.com/mrmrs_) - Advocate for users and open-source
+* [Donovan Hutchinson](https://twitter.com/donovanh) - Designer, developer, writer. Occasionally blogs at http://Hop.ie , and currently building @cssanimation
+* [CSS Commits](https://twitter.com/CSScommits) - Latest commits to @CSSWG’s public Mercurial repository
+* [Scott Jehl](https://twitter.com/scottjehl) - Author of @responsiblerwd, now on sale from @abookapart.
+* [Dudley Storey](https://twitter.com/dudleystorey) - Web development writer, teacher, and speaker.
+* [Zoe M. Gillenwater](https://twitter.com/zomigi) - Web designer/developer specializing in CSS, RWD, UX, & accessibility.
+* [Ben Briggs](https://twitter.com/ben_eb) - Final year web technologies student. node.js, javascript, open source modules, client side optimisation, web performance.
+* [Paul Lewis](https://twitter.com/aerotwist) - Googler who noodles with code and design.
+* [Thierry Koblentz](https://twitter.com/thierrykoblentz) - CSSer @ Yahoo Only Tweeting Tech
+* [Nicolas Gallagher](https://twitter.com/necolas) - Software Engineer at @twitter.
+* [Harry Roberts](https://twitter.com/csswizardry)- Consultant Front-end Architect: @google, @Etsy, @kickstarter, @BBC, @Deloitte, @FT, more
+* [Phil Walton](https://twitter.com/philwalton) - Engineer at Google • Open Source Advocate • Developer • Designer • Writer
+* [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
+* [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS & HTML are my crayons ༶ Interested in Cognitive Science, AI, HCI, UI Design & Astrophysics ༶ Digital nomad
+* [Una Kravets](https://twitter.com/Una) - Front-end @IBMDesign. Sassvocate, community builder, & handcrafter. STEMinist :) Open source all the things!
+* [Chris Coyier](https://twitter.com/chriscoyier) - Designer @CodePen. Writer @Real_CSS_Tricks.
+* [Nicole Sullivan](https://twitter.com/stubbornella) - GEEK!
+* [Eric Bidelman](https://twitter.com/ebidel) - Engineer at Google working on Chrome, web components, and Polymer
+* [Patrick Hamann](https://twitter.com/patrickhamann) - Lover of mountains, craft beers and discovering new food.
+* [Dave McFarland](https://twitter.com/davemcfarland) - Web developer, author of CSS: The Missing Manual, JavaScript & jQuery
+* [L. David Baron](https://twitter.com/davidbaron) - Mozilla developer, CSS and W3C standards diplomat
+* [Daniel Glazman](https://twitter.com/glazou)W3C CSS Working Group Co-chairman, entrepreneur, software engineer, geek, father of two, polyglot, duck lover. Nah. Tweets are strictly mine.
+* [The Chris Eppstein](https://twitter.com/chriseppstein) - Loves love. Hates hate. Has a kick-ass family. Writes code. Leads stylesheet tech @LinkedIn.
+* [앗킨스 탭](https://twitter.com/tabatkins) - Literally Jenn Schiffer's Mom
+* [Natalie Weizenbaum](https://twitter.com/nex3) - Trans coder lady. Lead designer/developer of @SassCSS, working for @google on @dart_lang
+* [Brad Frost](https://twitter.com/brad_frost) - Web designer, speaker, writer, consultant, musician
+* [Maxime Thirouin](https://twitter.com/MoOx) - Freelance front-end vigilante, UI/UX developer.
+* [Mark Otto](https://twitter.com/mdo) - GitHub and Bootstrap. Formerly at Twitter. Huge nerd.
+* [Simon](https://twitter.com/simurai) - UI designer, CSS doodler
+* [Connor Sears](https://twitter.com/connors) - Designer at GitHub.
+* [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
+* [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
 
 # Contributing
 
