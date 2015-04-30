@@ -67,13 +67,13 @@ Awesome CSS
 
 ## Podcats
 
-Something to listen to while programming.
+*Something to listen to while programming.*
 
 - [ShopTalkShow](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front end web design, development, and UX.
 
 ## Twitter
 
-Active accounts to follow.
+*Active accounts to follow.*
 
 * [CSS Animation](https://twitter.com/cssanimation) -
 * [Andrey Sitnik](https://twitter.com/andreysitnik) - Author of @Autoprefixer, http://easings.net  and @PostCSS.
