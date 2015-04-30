@@ -3,7 +3,7 @@ Awesome CSS
 
 > A curated list of css lists
 
-## Table of Contents
+# Table of Contents
 
 - [Preprocessors](#preprocessors)
 - [Framework](#frameworks)
@@ -12,7 +12,7 @@ Awesome CSS
 - [Resources](#resources)
 - [License](#license)
 
-## Preprocessors
+# Preprocessors
 
 - [SASS](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
 - [LESS](http://lesscss.org/) -  Backwards compatible with CSS and the extra features it adds use existing CSS syntax
@@ -25,7 +25,7 @@ Awesome CSS
 - [Myth](http://www.myth.io/) - Acts like a polyfill for future versions of the spec
 - [Rework](https://github.com/reworkcss/rework) - written in Node.js
 
-## Frameworks
+# Frameworks
 
 - [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework
 - [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework
@@ -35,7 +35,7 @@ Awesome CSS
 - [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
 - [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
 
-## CSS Development at Large-Scale Websites
+# CSS Development at Large-Scale Websites
 
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
@@ -48,7 +48,7 @@ Awesome CSS
 - [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis
 - [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 
-## Styleguide
+# Styleguide
 
 - [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 - [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
@@ -59,19 +59,19 @@ Awesome CSS
 - [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
 - [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 
-## References
+# References
 
 - [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 
-## Resources
+# Resources
 
-### Podcats
+## Podcats
 
 Something to listen to while programming.
 
 - [ShopTalkShow](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front end web design, development, and UX.
 
-### Twitter
+## Twitter
 
 Active accounts to follow.
 
@@ -115,12 +115,12 @@ Active accounts to follow.
 - [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
 - [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
 
-## Contributing
+# Contributing
 
 Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
 
-## License
+# License
 
 [MIT License](http://sotayamashita.mit-license.org/) © [Sota Yamashita](https://twitter.com/sota0805)
