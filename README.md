@@ -73,6 +73,7 @@ Awesome CSS
 *Something to listen to while programming.*
 
 - [ShopTalkShow](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front end web design, development, and UX.
+- [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
 
 ## Twitter
 
