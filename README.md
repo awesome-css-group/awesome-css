@@ -119,7 +119,7 @@ Awesome CSS
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
+Please have a look at [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 # License
 
