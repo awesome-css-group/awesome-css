@@ -6,7 +6,8 @@ Awesome CSS
 - [Awesome CSS](#awesome-css)
   - [Preprocessors](#preprocessors)
   - [Framework](#frameworks)
-  - [Case Studies](#case-studies)
+  - [Structure](#structure)
+  - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
   - [Styleguide](#styleguide)
   - [Resources](#resources)
 - [Resources](#resources)
@@ -37,6 +38,11 @@ Awesome CSS
 - [960 Grid System](http://960.gs/) - An effort to streamline web development workflow
 - [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
 - [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
+
+## CSS Structure
+
+- [rscss](Reasonable Standard for CSS Stylesheet Structure) - Reasonable Standard for CSS Stylesheet Structure
+- [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects
 
 ## CSS Development at Large-Scale Websites
 
@@ -76,9 +82,9 @@ Awesome CSS
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
-* [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development. 
-* [jQuery Podcast](http://podcast.jquery.com/) - If you’re familiar with jQuery (and you probably are), you know there’s a podcast to go with it. 
-* [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology. 
+* [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
+* [jQuery Podcast](http://podcast.jquery.com/) - If you’re familiar with jQuery (and you probably are), you know there’s a podcast to go with it.
+* [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
 
 ## Twitter
 
