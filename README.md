@@ -8,6 +8,7 @@ Awesome CSS
   - [Framework](#frameworks)
   - [Structure](#structure)
   - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
+  - [Code Style Guideline](#code-style-guideline)
   - [Styleguide](#styleguide)
   - [Resources](#resources)
 - [Resources](#resources)
@@ -57,16 +58,24 @@ Awesome CSS
 - [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis
 - [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 
-## Styleguide
+## Code Style Guideline
 
 - [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 - [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
+- [Sass Guidelines](http://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel)
 - [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
-- [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
-- [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
 - [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp
+- [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
 - [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
+
+## Styleguide
+
+- [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
+- [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/)
+- [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/)
 - [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
+- [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/)
+- [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors)
 
 # References
 
