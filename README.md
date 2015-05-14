@@ -3,42 +3,42 @@ Awesome CSS
 
 > A curated list of css lists
 
-- [Awesome CSS](#awesome-css)
-  - [Preprocessors](#preprocessors)
-  - [Framework](#frameworks)
-  - [Structure](#structure)
-  - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-  - [Code Style Guideline](#code-style-guideline)
-  - [Styleguide](#styleguide)
-  - [Resources](#resources)
-- [Resources](#resources)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-- [Contributing](#contributing)
-- [License](#license)
+* [Awesome CSS](#awesome-css)
+  * [Preprocessors](#preprocessors)
+  * [Framework](#frameworks)
+  * [Structure](#structure)
+  * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
+  * [Code Style Guideline](#code-style-guideline)
+  * [Styleguide](#styleguide)
+  * [Resources](#resources)
+* [Resources](#resources)
+    * [Podcasts](#podcasts)
+    * [Twitter](#twitter)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Preprocessors
 
-- [SASS](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
-- [LESS](http://lesscss.org/) -  Backwards compatible with CSS and the extra features it adds use existing CSS syntax
-- [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
-- [Stylues](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs
-- [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
-- [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
-- [Spiffing](https://github.com/idiot/Spiffing) - The CSS preprocessor for the gentlemanly web developer
-- [CSS Crush](http://the-echoplex.net/csscrush/) - written in PHP
-- [Myth](http://www.myth.io/) - Acts like a polyfill for future versions of the spec
-- [Rework](https://github.com/reworkcss/rework) - written in Node.js
+* [SASS](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
+* [LESS](http://lesscss.org/) -  Backwards compatible with CSS and the extra features it adds use existing CSS syntax
+* [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
+* [Stylues](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs
+* [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
+* [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
+* [Spiffing](https://github.com/idiot/Spiffing) - The CSS preprocessor for the gentlemanly web developer
+* [CSS Crush](http://the-echoplex.net/csscrush/) - written in PHP
+* [Myth](http://www.myth.io/) - Acts like a polyfill for future versions of the spec
+* [Rework](https://github.com/reworkcss/rework) - written in Node.js
 
 ## Frameworks
 
-- [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework
-- [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework
-- [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework
-- [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass
-- [960 Grid System](http://960.gs/) - An effort to streamline web development workflow
-- [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
-- [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
+* [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework
+* [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework
+* [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework
+* [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass
+* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow
+* [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass
+* [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop
 
 ## CSS Structure
 
@@ -47,35 +47,35 @@ Awesome CSS
 
 ## CSS Development at Large-Scale Websites
 
-- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
-- [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
-- [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
-- [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
-- [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin)
-- [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
-- [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
-- [Bugsnag's CSS Architecture](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
-- [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis
-- [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
+* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
+* [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
+* [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
+* [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
+* [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin)
+* [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
+* [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
+* [Bugsnag's CSS Architecture](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
+* [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis
+* [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 
 ## Code Style Guideline
 
-- [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
-- [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
-- [Sass Guidelines](http://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel)
-- [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
-- [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp
-- [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
-- [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
+* [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+* [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
+* [Sass Guidelines](http://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+* [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
+* [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp
+* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
+* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
 
 ## Styleguide
 
-- [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
-- [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/)
-- [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/)
-- [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
-- [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/)
-- [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors)
+* [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
+* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/)
+* [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/)
+* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/)
+* [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors)
 
 # References
 
