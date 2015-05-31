@@ -1,7 +1,6 @@
-Awesome CSS
-===========
+# Awesome CSS
 
-> A curated list of css lists
+> A curated list of CSS lists
 
 * [Awesome CSS](#awesome-css)
   * [Preprocessors](#preprocessors)
