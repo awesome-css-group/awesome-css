@@ -142,7 +142,7 @@ Awesome CSS
 
 ## Videos
 
-*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him with Twitter](https://twitter.com/sota0805/status/527635856031375360)*
+*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sfota0805/status/527635856031375360). Thank you so much.*
 
 ###2015
 
