@@ -19,16 +19,14 @@
 
 ## Preprocessors
 
-* [SASS](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
-* [LESS](http://lesscss.org/) -  Backwards compatible with CSS and the extra features it adds use existing CSS syntax
-* [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
+*Build CSS faster*
+
+* [Sass](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
+* [Less](http://lesscss.org/) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax
 * [Stylues](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs
+* [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor
 * [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
-* [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
-* [Spiffing](https://github.com/idiot/Spiffing) - The CSS preprocessor for the gentlemanly web developer
-* [CSS Crush](http://the-echoplex.net/csscrush/) - written in PHP
-* [Myth](http://www.myth.io/) - Acts like a polyfill for future versions of the spec
-* [Rework](https://github.com/reworkcss/rework) - written in Node.js
+* [PCSS](https://github.com/sotayamashita/pcss) - Pure Python CSS Preprocessor
 
 ## Frameworks
 
