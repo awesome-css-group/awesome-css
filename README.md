@@ -28,6 +28,8 @@
 * [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
 * [PCSS](https://github.com/sotayamashita/pcss) - Pure Python CSS Preprocessor
 
+Here is also [CSS preprocessors curated list](https://github.com/showcases/css-preprocessors) by Github.
+
 ## Frameworks
 
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework
