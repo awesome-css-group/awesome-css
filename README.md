@@ -22,7 +22,7 @@
 *Build CSS faster*
 
 * [Sass](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language
-* [Less](http://lesscss.org/) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax
+* [LESS](http://lesscss.org/) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax
 * [Stylues](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs
 * [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor
 * [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor
