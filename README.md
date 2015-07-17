@@ -42,7 +42,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## CSS Structure
 
-- [rscss](Reasonable Standard for CSS Stylesheet Structure) - Reasonable Standard for CSS Stylesheet Structure
+- [rscss](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects
 
 ## CSS Development at Large-Scale Websites
