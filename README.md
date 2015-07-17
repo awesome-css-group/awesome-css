@@ -83,7 +83,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 # Resources
 
-## Podcats
+## Podcasts
 
 *Something to listen to while programming.*
 
