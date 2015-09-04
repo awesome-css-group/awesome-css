@@ -10,7 +10,8 @@
   * [Structure](#structure)
   * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
   * [Code Style Guideline](#code-style-guideline)
-  * [Styleguide](#styleguide)
+  * [Style Guide](#style-guide)
+  * [Naming conventions](#naming-conventions)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
@@ -71,7 +72,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress
 
-## Styleguide
+## Style Guide
 
 * [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/)
@@ -79,6 +80,20 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/)
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors)
+
+# Naming conventions & Methodologies
+
+* [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
+* [BEM](https://en.bem.info/)
+* [SMACSS](https://smacss.com/)
+* [Point North](http://pointnorth.io/#base-browser-styling)
+* [ITCSS](http://itcss.io/)
+* [OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+* [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
+* [idiomatic-css](https://github.com/necolas/idiomatic-css)
+* [Atomic Design](http://patternlab.io/resources.html)
+* [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
+* [Kickoff CSS](https://trykickoff.github.io/learn/css.html#namingscheme)
 
 # References
 
