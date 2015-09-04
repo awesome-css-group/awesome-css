@@ -11,7 +11,7 @@
   * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
   * [Code Style Guideline](#code-style-guideline)
   * [Style Guide](#style-guide)
-  * [Naming conventions](#naming-conventions)
+  * [Naming conventions & Methodologies](#naming-conventions--methodologies)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
