@@ -1,6 +1,8 @@
-# Awesome CSS  [![Awesome][awesome-badge]][awesome-link] {
-
 > A curated list of CSS lists
+
+[![Awesome][awesome-badge]][awesome-link]
+
+# Awesome CSS   {
 
 ## Table of Contents
 
