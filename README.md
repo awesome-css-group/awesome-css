@@ -84,16 +84,15 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 # Naming conventions & Methodologies
 
-* [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
+* [OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
 * [BEM](https://en.bem.info/)
 * [SMACSS](https://smacss.com/)
-* [Point North](http://pointnorth.io/#base-browser-styling)
-* [ITCSS](http://itcss.io/)
-* [OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
-* [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css)
-* [Atomic Design](http://patternlab.io/resources.html)
+* [RSCSS](https://github.com/rstacruz/rscss)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
+* [Atomic Design](http://patternlab.io/resources.html)
+* [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
+* [Point North](http://pointnorth.io/#base-browser-styling)
+* [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 * [Kickoff CSS](https://trykickoff.github.io/learn/css.html#namingscheme)
 
 # References
