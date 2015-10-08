@@ -46,7 +46,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-* [Blueprint](http://www.blueprintcss.org/)
+* [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
 
 ## Toolkits
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
