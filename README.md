@@ -45,6 +45,8 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
+* [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+* [Blueprint](http://www.blueprintcss.org/)
 
 ## Toolkits
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
