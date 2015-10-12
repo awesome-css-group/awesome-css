@@ -36,15 +36,17 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Frameworks
 
+* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
+* [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
-* [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
+* [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
+* [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
-* [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
+* [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
 ## Toolkits
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
