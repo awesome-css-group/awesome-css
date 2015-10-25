@@ -43,6 +43,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
+* [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
