@@ -8,6 +8,7 @@
   * [Preprocessors](#preprocessors)
   * [Framework](#frameworks)
   * [Structure](#structure)
+  * [Reset & Normalize](#reset-and-normalize)
   * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
   * [Code Style Guideline](#code-style-guideline)
   * [Style Guide](#style-guide)
@@ -58,6 +59,11 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
+
+## Reset and Normalize
+
+- [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+- [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 
 ## CSS Development at Large-Scale Websites
 
