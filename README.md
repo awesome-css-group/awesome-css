@@ -30,7 +30,7 @@
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 * [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
 * [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
-* [PCSS](https://github.com/sotayamashita/pcss) - Pure Python CSS Preprocessor.
+* [PCSS](https://github.com/senko/pcss) - Pure Python CSS Preprocessor.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 
 Here is also [CSS preprocessors curated list](https://github.com/showcases/css-preprocessors) by Github.
