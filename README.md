@@ -62,8 +62,8 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Reset and Normalize
 
-- [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
+- [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 
 ## CSS Development at Large-Scale Websites
 
