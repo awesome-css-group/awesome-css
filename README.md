@@ -64,6 +64,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
+- [sanitize.css](https://10up.github.io/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
 
 ## CSS Development at Large-Scale Websites
 
