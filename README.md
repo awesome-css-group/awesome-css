@@ -91,14 +91,16 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Style Guide
 
-* [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github.
-* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
-* [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
-* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
-* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
-* [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
-* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
 * [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
+* [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github.
+* [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
+* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
+* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
+* [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
+
+
 
 # Naming conventions & Methodologies
 
