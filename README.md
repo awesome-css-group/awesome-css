@@ -97,6 +97,8 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
+* [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
 
 # Naming conventions & Methodologies
 
