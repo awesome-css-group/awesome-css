@@ -51,6 +51,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
 ## Toolkits
+* [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
 * [Corpus](http://corpuscss.com/) - Yet another CSS toolkit.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
