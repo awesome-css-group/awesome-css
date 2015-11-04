@@ -32,6 +32,7 @@
 * [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
 * [PCSS](https://github.com/senko/pcss) - Pure Python CSS Preprocessor.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+* [Myth](https://github.com/segmentio/myth) - Pure CSS without having to worry about slow browser support.
 
 Here is also [CSS preprocessors curated list](https://github.com/showcases/css-preprocessors) by Github.
 
