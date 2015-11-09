@@ -96,6 +96,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 * [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
