@@ -189,7 +189,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 ###2015
 
 1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`.
-1. [**CSS Architecture with SMACSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Caleb Meredith, DevTips channel `30:15`.
+1. [**CSS Architecture with SMACSS**](https://www.youtube.com/watch?v=6co781JgoqQ): Caleb Meredith, DevTips channel `30:15`.
 1. [**CSS Workflow from the Ground Up**](https://www.youtube.com/watch?v=ZVk3GQHfkbU): Jonathan Snook, Generate conf 2015 `46:06`.
 
 ###2014
