@@ -68,6 +68,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - [sanitize.css](https://10up.github.io/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
+- [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline
 
 ## CSS Development at Large-Scale Websites
 
