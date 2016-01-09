@@ -1,4 +1,4 @@
-# Awesome CSS  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sotayamashita/awesome-css.svg)](https://travis-ci.org/sotayamashita/awesome-css)
+# Awesome CSS  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/sotayamashita/awesome-css.svg)](https://travis-ci.org/sotayamashita/awesome-css)
 
 
 
@@ -73,7 +73,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 ## CSS Development at Large-Scale Websites
 
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo).
-* [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
+* [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
 * [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol).
 * [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin).
@@ -92,14 +92,14 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google.
-* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/coding-standards/css/) by WorldPress.
+* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
 
 ## Style Guide
 
 * [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
-* [GitHub CSS Style Guide](https://github.com/styleguide/css) by Github.
+* [GitHub CSS Style Guide](http://primercss.io) by Github.
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
@@ -116,12 +116,12 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [SMACSS](https://smacss.com/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [ITCSS](http://itcss.io/)
-* [OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+* [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 * [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [Atomic Design](http://patternlab.io/resources.html)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
-* [Kickoff CSS](https://trykickoff.github.io/learn/css.html#namingscheme)
+* [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 
 # References
 
@@ -186,7 +186,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Videos
 
-*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sfota0805/status/527635856031375360). Thank you so much.*
+*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
 
 ###2015
 
@@ -204,13 +204,13 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 1. [**Styling and Animating Scalable Vector Graphics with CSS**](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Sara Soueidan, CSSConf.EU `29:16`.
 1. [**Play Nice With CSS Tools and Methodologies**](https://www.youtube.com/watch?v=-bZSTMLqf8Q&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Brad Westfall, HTML5DevConf `42:47`.
 1. [**CSS and the Critical Path**](https://www.youtube.com/watch?v=_0Fk85to6hA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `33:42`.
-1. [**All the Right Moves: How to Put Your UI in Motion**](http://new.livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`.
+1. [**All the Right Moves: How to Put Your UI in Motion**](http://livestream.com/accounts/6779986/events/2928486/videos/51426837): Val Head, Multi-Mania `45:49`.
 1. [**Present and Future of CSS Layout**](https://vimeo.com/98746172): Tab Atkins, CSS Day `49:31`.
 1. [**Thinking Beyond "Scalable CSS"**](https://www.youtube.com/watch?v=L8w3v9m6G04&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Nicolas Gallagher, dotCSS `28:46`.
 1. [**Web Components & the Future of CSS**](https://www.youtube.com/watch?v=QHxrr6Q82yI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Philip Walton, SFHTML5 `40:02`.
 1. [**CSS Performance Tooling**](https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Addy Osmani, CSSConf.EU `46:27`.
 1. [**3.14 Things I Didn’t Know About CSS**](https://vimeo.com/100264064): Mathias Bynens, CSS Day `45:35`.
-1. [**Effortless Style**](http://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`.
+1. [**Effortless Style**](https://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`.
 1. [**CSS: Yawn to Yay!**](https://vimeo.com/99916682) Kyle Simpson, Front-Trends `39:04`.
 
 
@@ -256,6 +256,6 @@ Please have a look at [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 # License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sota Yamashita](http://sotayamashita.github.io/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
