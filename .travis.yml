@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md
+  - awesome_bot README.md --white-list twitter.com/mdo,twitter.com/chriscoyier,github.com/necolas/idiomatic-css,twitter.com/necolas,twitter.com/csswizardry,twitter.com/HugoGiraudel
