@@ -100,7 +100,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
-* [Official Trello CSS Guide](http://blog.trello.com/heres-the-official-trello-css-guide/) by Bobby Grace.
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by [Bobby Grace](https://twitter.com/bobbygrace).
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
