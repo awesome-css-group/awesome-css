@@ -86,7 +86,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 ## Code Style Guideline
 
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
-* [CSS Styleguide](https://github.com/grvcoelho/css-styleguide) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
+* [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
 * [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry).
 * [Sass Guidelines](http://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
