@@ -7,7 +7,7 @@
 * [Awesome CSS](#awesome-css)
   * [Preprocessors](#preprocessors)
   * [Framework](#frameworks)
-  * [Structure](#structure)
+  * [Structure](#css-structure)
   * [Reset & Normalize](#reset-and-normalize)
   * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
   * [Code Style Guideline](#code-style-guideline)
