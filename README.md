@@ -13,6 +13,7 @@
   * [Code Style Guideline](#code-style-guideline)
   * [Style Guide](#style-guide)
   * [Naming conventions & Methodologies](#naming-conventions--methodologies)
+  * [CSS in JS](#css-in-js)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
@@ -124,9 +125,19 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 
+# CSS in JS
+
+* [babel-plugin-css-in-js](https://github.com/martinandert/babel-plugin-css-in-js)
+* [react-styled](https://github.com/bloodyowl/react-styled)
+* [classy](https://github.com/inturn/classy)
+* [csjs](https://github.com/rtsao/csjs)
+* [css-loader](https://github.com/webpack/css-loader)
+
+Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+
 # References
 
-- [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
+* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 
 # Resources
 
