@@ -80,8 +80,8 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin).
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett.
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
-* [Bugsnag's CSS Architecture](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
-* [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost/) by Paul Davis.
+* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
+* [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
 * [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
 
 ## Code Style Guideline
