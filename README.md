@@ -110,6 +110,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
 
+Here is also great resource to understand. [Website style guide resource](http://styleguides.io/)
 
 
 # Naming conventions & Methodologies
