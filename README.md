@@ -105,6 +105,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
+* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/)
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
