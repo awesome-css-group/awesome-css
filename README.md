@@ -52,7 +52,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
-* [pills](https://github.com/rohitkrai03/pills) - A simple, responsive, and tiny CSS grid for humans.
+* [Pills](https://github.com/rohitkrai03/pills) - A simple, responsive, and tiny CSS grid for humans.
 
 ## Toolkits
 * [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
