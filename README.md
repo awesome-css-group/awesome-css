@@ -78,7 +78,6 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
 * [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol).
-* [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin).
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett.
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
@@ -135,6 +134,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [classy](https://github.com/inturn/classy)
 * [csjs](https://github.com/rtsao/csjs)
 * [css-loader](https://github.com/webpack/css-loader)
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
