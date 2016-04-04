@@ -52,6 +52,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
+* [pills](https://github.com/rohitkrai03/pills) - A simple, responsive, and tiny CSS grid for humans.
 
 ## Toolkits
 * [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
@@ -135,6 +136,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [classy](https://github.com/inturn/classy)
 * [csjs](https://github.com/rtsao/csjs)
 * [css-loader](https://github.com/webpack/css-loader)
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
