@@ -78,7 +78,6 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
 * [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol).
-* [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin).
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett.
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
@@ -90,7 +89,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
 * [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry).
-* [Sass Guidelines](http://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
+* [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google.
