@@ -127,6 +127,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [Atomic Design](http://patternlab.io/resources.html)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
+* [MaintainableCSS](http://maintainablecss.com)
 
 # CSS in JS
 
