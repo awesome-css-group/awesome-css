@@ -44,7 +44,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](https://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
+* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
