@@ -134,9 +134,17 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [classy](https://github.com/inturn/classy)
 * [csjs](https://github.com/rtsao/csjs)
 * [css-loader](https://github.com/webpack/css-loader)
-* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+
+# CSS Polyfills
+
+* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier. 
+* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
+* [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+
 
 # References
 
