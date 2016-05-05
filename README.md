@@ -14,6 +14,7 @@
   * [Style Guide](#style-guide)
   * [Naming conventions & Methodologies](#naming-conventions--methodologies)
   * [CSS in JS](#css-in-js)
+  * [CSS Polyfills](#css-polyfills)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
@@ -44,7 +45,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](http://www.getmdl.io/started/) - Great framework to make cool Material Design websites.
+* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
@@ -137,6 +138,15 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [css-loader](https://github.com/webpack/css-loader)
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+
+# CSS Polyfills
+
+* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier. 
+* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+* [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
+* [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+
 
 # References
 
