@@ -14,6 +14,7 @@
   * [Style Guide](#style-guide)
   * [Naming conventions & Methodologies](#naming-conventions--methodologies)
   * [CSS in JS](#css-in-js)
+  * [CSS Polyfills](#css-polyfills)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
