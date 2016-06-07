@@ -51,6 +51,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
+* [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
