@@ -93,7 +93,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 * [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
-* [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml) by Google.
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) by Google.
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
 
 ## Style Guide
@@ -141,7 +141,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 # CSS Polyfills
 
-* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier. 
+* [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
 * [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
 * [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 * [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
