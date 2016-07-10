@@ -4,7 +4,7 @@
 [travis-badge]:  https://api.travis-ci.org/sotayamashita/awesome-css.svg
 
 
-# Awesome CSS  [![awesome][awesome-badge]][awesome-link] [![travis][travis-badge]][travis-link]
+# Awesome CSS  [![awesome][awesome-badge]][awesome-link]
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
 
 * [Awesome CSS](#awesome-css)
@@ -30,16 +30,13 @@
 
 *Build CSS faster*
 
-* [GCSS](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
-* [LESS](http://lesscss.org/) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
-* [Myth](https://github.com/segmentio/myth) - Pure CSS without having to worry about slow browser support.
-* [PCSS](https://github.com/senko/pcss) - Pure Python CSS Preprocessor.
+* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
-* [Sass](http://sass-lang.com/) - Mature, stable, and powerful professional grade CSS extension language.
+* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
-* [YACP](https://github.com/morishitter/YACP) - Yet Another CSS Preprocessor.
 
-Here is also [CSS preprocessors curated list](https://github.com/showcases/css-preprocessors) by Github.
+_[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
+
 
 ## Frameworks
 
