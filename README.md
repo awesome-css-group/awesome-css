@@ -70,7 +70,7 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
-- [sanitize.css](https://10up.github.io/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
+- [sanitize.css](https://github.com/jonathantneal/sanitize.css) - A set of CSS rules that style with today’s best practices out-of-the-box
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline
 
 ## CSS Development at Large-Scale Websites
@@ -98,14 +98,14 @@ Here is also [CSS preprocessors curated list](https://github.com/showcases/css-p
 
 ## Style Guide
 
-* [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
+* [AUI](https://docs.atlassian.com/aui/latest/docs) by [Atlassian Design](https://design.atlassian.com/).
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by [Bobby Grace](https://twitter.com/bobbygrace).
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
-* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](https://www.salesforce.com/).
 * [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/)
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
@@ -116,13 +116,13 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 # Naming conventions & Methodologies
 
-* [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
+* [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
 * [SMACSS](https://smacss.com/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
-* [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
+* [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [Atomic Design](http://patternlab.io/resources.html)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
@@ -281,6 +281,6 @@ Please have a look at [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 # License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
