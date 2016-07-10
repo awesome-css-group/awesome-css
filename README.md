@@ -1,8 +1,11 @@
-# Awesome CSS  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/sotayamashita/awesome-css.svg)](https://travis-ci.org/sotayamashita/awesome-css)
+[awesome-link]:  https://github.com/sindresorhus/awesome
+[awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
+[travis-badge]:  https://api.travis-ci.org/sotayamashita/awesome-css.svg
 
 
-
-> A curated list of CSS lists
+# Awesome CSS  [![awesome][awesome-badge]][awesome-link] [![travis][travis-badge]][travis-link]
+> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
 
 * [Awesome CSS](#awesome-css)
   * [Preprocessors](#preprocessors)
@@ -275,9 +278,8 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 # Contributing
 
-Contributions are very welcome!
+Fork, add your amazing nugget and send a PR.
 
-Please have a look at [CONTRIBUTING](CONTRIBUTING.md) for guidelines.
 
 # License
 
