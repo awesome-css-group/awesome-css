@@ -18,6 +18,7 @@
   * [Naming conventions & Methodologies](#naming-conventions--methodologies)
   * [CSS in JS](#css-in-js)
   * [CSS Polyfills](#css-polyfills)
+  * [Miscellaneous](#miscellaneous)
   * [Resources](#resources)
 * [Resources](#resources)
     * [Podcasts](#podcasts)
@@ -147,6 +148,9 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
 
+# Miscellaneous
+
+* [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 
 # References
 
