@@ -137,6 +137,9 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [classy](https://github.com/inturn/classy)
 * [csjs](https://github.com/rtsao/csjs)
 * [css-loader](https://github.com/webpack/css-loader)
+* [aphrodite](https://github.com/Khan/aphrodite)
+* [JSS](https://github.com/cssinjs/jss)
+* [react-with-styles](https://github.com/airbnb/react-with-styles)
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
