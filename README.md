@@ -31,7 +31,7 @@
 * [License](#license)
 
 
-## Parserr
+## Parser
 
 * [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript
 * [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator
