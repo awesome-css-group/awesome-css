@@ -82,7 +82,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 ## Toolkits
 * [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
-* [Corpus](http://corpuscss.com/) - Yet another CSS toolkit.
+* [Corpus](http://jamiewilson.io/corpus/) - Yet another CSS toolkit.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
 <sub>[⇧ back to top](#index)</sub>
@@ -133,14 +133,14 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 ## Style Guide
 
-* [AUI](https://docs.atlassian.com/aui/latest/) by [Atlassian Design](https://design.atlassian.com/).
+* [AUI](http://docs.atlassian.com/aui/latest/docs) by [Atlassian Design](https://design.atlassian.com/).
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by [Bobby Grace](https://twitter.com/bobbygrace).
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
-* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](http://www.salesforce.com/).
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](https://www.salesforce.com/).
 * [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/)
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
@@ -152,13 +152,13 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 # Naming conventions & Methodologies
 
-* [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
+* [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
 * [SMACSS](https://smacss.com/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
-* [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
+* [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
 * [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [Atomic Design](http://patternlab.io/resources.html)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
@@ -340,7 +340,7 @@ Fork, add your amazing nugget and send a PR.
 
 # License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
 
