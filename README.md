@@ -1,39 +1,40 @@
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
-[travis-badge]:  https://api.travis-ci.org/sotayamashita/awesome-css.svg
+[travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
+[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
+[welcome-link]:  https://github.com/sotayamasita/awesome-css/pulls
 
-[![awesome][awesome-badge]][awesome-link]
+[![Awesome][awesome-badge]][awesome-link]
+[![Travis Build Status][travis-badge]][travis-link]
+[![PRs & Issues Welcome][welcom-badge]][welcome-link]
 
-# Awesome CSS 
+# Awesome CSS
 
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
 
-## Index
+#### Contents
 
-* [Awesome CSS](#awesome-css)
- * [Parser](#parser) 
- * [Preprocessors](#preprocessors)
- * [Framework](#frameworks)
- * [Structure](#css-structure)
- * [Reset & Normalize](#reset-and-normalize)
- * [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
- * [Code Style Guideline](#code-style-guideline)
- * [Style Guide](#style-guide)
- * [Naming conventions & Methodologies](#naming-conventions--methodologies)
- * [CSS in JS](#css-in-js)
- * [CSS Polyfills](#css-polyfills)
- * [Miscellaneous](#miscellaneous)
- * [Resources](#resources)
-* [Resources](#resources)
- * [Podcasts](#podcasts)
- * [Twitter](#twitter)
- * [Videos](#videos)
-* [Contributing](#contributing)
-* [License](#license)
+- [Parser](#parser) 
+- [Preprocessors](#preprocessors) 
+- [Framework](#frameworks)
+- [Structure](#css-structure)
+- [Reset & Normalize](#reset-and-normalize)
+- [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
+- [Code Style Guideline](#code-style-guideline)
+- [Style Guide](#style-guide)
+- [Naming conventions & Methodologies](#naming-conventions--methodologies)
+- [CSS in JS](#css-in-js)
+- [CSS Polyfills](#css-polyfills)
+- [Miscellaneous](#miscellaneous)
+- [Resources](#resources)
+- [Podcasts](#podcasts)
+- [Twitter](#twitter)
+- [Videos](#videos)
+- [Contributing](#contributing)
 
 
-## Parser
+## Parser :mag:
 
 * [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript
 * [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator
@@ -46,9 +47,9 @@
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers
 
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
-## Preprocessors
+## Preprocessors :pill:
 
 *Build CSS faster*
 
@@ -59,9 +60,9 @@
 
 _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#content)</sub>
 
-## Frameworks
+## Frameworks :art:
 
 * [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
 * [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
@@ -77,9 +78,10 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#content)</sub>
 
-## Toolkits
+## Toolkits :wrench:
+
 * [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
 * [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
 * [Corpus](http://jamiewilson.io/corpus/) - Yet another CSS toolkit.
@@ -87,7 +89,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 <sub>[⇧ back to top](#index)</sub>
 
-## CSS Structure
+## CSS Structure 
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
@@ -116,9 +118,9 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
 * [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
-## Code Style Guideline
+## Code Style Guideline :book:
 
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
@@ -129,7 +131,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) by Google.
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Style Guide
 
@@ -148,7 +150,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 Here is also great resource to understand. [Website style guide resource](http://styleguides.io/)
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 # Naming conventions & Methodologies
 
@@ -165,7 +167,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 # CSS in JS
 
@@ -180,7 +182,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 # CSS Polyfills
 
@@ -190,7 +192,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 # Miscellaneous
 
@@ -213,7 +215,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ## Twitter
 
@@ -259,13 +261,13 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
 * [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ## Videos
 
 *A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ###2015
 
@@ -294,7 +296,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 1. [**Effortless Style**](https://vimeo.com/101718785): Heydon Pickering, CSS Day `49:51`.
 1. [**CSS: Yawn to Yay!**](https://vimeo.com/99916682) Kyle Simpson, Front-Trends `39:04`.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ###2013
 
@@ -316,27 +318,27 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 1. [**More CSS Secrets: Another 10 Things You May Not Know about CSS**](https://www.youtube.com/watch?v=3ikye7Qc7Ak&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Lea Verou, W3Conf `60:39`.
 1. [**Atomic Cascading Style Sheets**]( https://www.youtube.com/watch?v=ojj_-6Xiud4): Renato Iwashima, HTML5DevConf `52:33`.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ###2012
 
 1. [**Open Source Tools and Libraries for Designers**](https://www.youtube.com/watch?v=hFdbE6T9QGc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Julie Ann Horvath, HTML5DevConf `29:39`.
 1. [**GitHub's CSS Performance**](https://vimeo.com/54990931): Jon Rohan, CSS Dev Conf `40:50`.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 ###2010
 
 1. [**Handcrafted CSS**](https://vimeo.com/17091905): Dan Cederholm, Build Conference `44:29`.
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 # Contributing
 
 Fork, add your amazing nugget and send a PR.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contenst)</sub>
 
 # License
 
