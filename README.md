@@ -3,7 +3,7 @@
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
 [travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
 [welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
-[welcome-link]:  https://github.com/sotayamasita/awesome-css/pulls
+[welcome-link]:  https://github.com/sotayamashita/awesome-css/pulls
 
 [![Awesome][awesome-badge]][awesome-link]
 [![Travis Build Status][travis-badge]][travis-link]
