@@ -117,6 +117,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
 * [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
+* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -152,7 +153,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 <sub>[⇧ back to top](#contents)</sub>
 
-# Naming conventions & Methodologies
+## Naming conventions & Methodologies :bulb:
 
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
@@ -169,7 +170,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 <sub>[⇧ back to top](#contents)</sub>
 
-# CSS in JS
+## CSS in JS
 
 * [aphrodite](https://github.com/Khan/aphrodite)
 * [babel-plugin-css-in-js](https://github.com/martinandert/babel-plugin-css-in-js)
@@ -184,7 +185,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contents)</sub>
 
-# CSS Polyfills
+## CSS Polyfills
 
 * [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
 * [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
@@ -194,17 +195,12 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contents)</sub>
 
-# Miscellaneous
+## Miscellaneous
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 
-# References
 
-* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
-
-# Resources
-
-## Podcasts
+## Podcasts :radio:
 
 *Something to listen to while programming.*
 
@@ -217,7 +213,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contenst)</sub>
 
-## Twitter
+## Twitter :satellite:
 
 *Active accounts to follow.*
 
@@ -263,7 +259,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contenst)</sub>
 
-## Videos
+## Videos :video_camera:
 
 *A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [908a28](https://github.com/AllThingsSmitty/must-watch-css/commit/908a28bf36517a5bac9a34e3174885ea57a62017). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
 
@@ -334,13 +330,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contenst)</sub>
 
-# Contributing
-
-Fork, add your amazing nugget and send a PR.
-
-<sub>[⇧ back to top](#contenst)</sub>
-
-# License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
