@@ -5,13 +5,13 @@
 [welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
 [welcome-link]:  https://github.com/sotayamashita/awesome-css/pulls
 
+# Awesome CSS
+
 [![Awesome][awesome-badge]][awesome-link]
 [![Travis Build Status][travis-badge]][travis-link]
 [![PRs & Issues Welcome][welcom-badge]][welcome-link]
 
-# Awesome CSS
-
-> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS
+> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
 
 #### Contents
 
