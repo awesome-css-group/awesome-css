@@ -15,23 +15,24 @@
 
 #### Contents
 
-- [Parser](#parser) 
-- [Preprocessors](#preprocessors) 
-- [Framework](#frameworks)
+- [Parser](#parser-mag)
+- [Preprocessors](#preprocessors-pill)
+- [Framework](#frameworks-art)
+- [Toolkits](#toolkits-wrench)
 - [Structure](#css-structure)
 - [Reset & Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guideline](#code-style-guideline)
+- [Code Style Guideline](#code-style-guideline-book)
 - [Style Guide](#style-guide)
-- [Naming conventions & Methodologies](#naming-conventions--methodologies)
+- [Naming conventions & Methodologies](#naming-conventions--methodologies-bulb)
 - [CSS in JS](#css-in-js)
 - [CSS Polyfills](#css-polyfills)
 - [Miscellaneous](#miscellaneous)
-- [Resources](#resources)
-- [Podcasts](#podcasts)
-- [Twitter](#twitter)
-- [Videos](#videos)
-- [Contributing](#contributing)
+<!-- - [Resources](#resources) -->
+- [Podcasts](#podcasts-radio)
+- [Twitter](#twitter-satellite)
+- [Videos](#videos-video_camera)
+<!-- - [Contributing](#contributing) -->
 
 
 ## Parser :mag:
@@ -89,7 +90,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 <sub>[⇧ back to top](#index)</sub>
 
-## CSS Structure 
+## CSS Structure
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
@@ -335,4 +336,3 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
-
