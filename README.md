@@ -28,11 +28,9 @@
 - [CSS in JS](#css-in-js)
 - [CSS Polyfills](#css-polyfills)
 - [Miscellaneous](#miscellaneous)
-<!-- - [Resources](#resources) -->
 - [Podcasts](#podcasts-radio)
 - [Twitter](#twitter-satellite)
 - [Videos](#videos-video_camera)
-<!-- - [Contributing](#contributing) -->
 
 
 ## Parser :mag:
