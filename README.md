@@ -279,8 +279,8 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 ### 2016
 
-1. [Component-Based Style Reuse] :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24` - Pete Hunt @ CSS conf 2016
-1. [CSS4 Grid: True Layout Finally Arrives] :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `29:27` - Jen Kramer @ CSS conf 2016
+1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24` - Pete Hunt @ CSS conf 2016
+1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `29:27` - Jen Kramer @ CSS conf 2016
 
 ### 2015
 
