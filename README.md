@@ -275,7 +275,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 ## Videos :tv:
 
-*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
+*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
 
 ###2015
 
