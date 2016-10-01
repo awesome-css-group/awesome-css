@@ -271,17 +271,15 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 ## Videos :tv:
 
-*A useful list of must-watch videos. This list was taken from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) of [7d572ca](https://github.com/AllThingsSmitty/must-watch-css/commit/https://github.com/AllThingsSmitty/must-watch-css/commit/7d572ca1440d1a15edbbcc0aac5a8b4c5e60bb9c). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
-
-<sub>[⇧ back to top](#contenst)</sub>
+*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). Thank you so much.*
 
 ###2015
 
-1. [**mdo-ular CSS**](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css): Mark Otto, jQuery UK `30:06`.
-1. [**CSS Architecture with SMACSS**](https://www.youtube.com/watch?v=6co781JgoqQ): Caleb Meredith, DevTips channel `30:15`.
-1. [**CSS Workflow from the Ground Up**](https://www.youtube.com/watch?v=ZVk3GQHfkbU): Jonathan Snook, Generate conf 2015 `46:06`.
+1. [mdo-ular CSS](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css) `30:06` - Mark Otto, jQuery UK.
+1. [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) `30:15` - Caleb Meredith, DevTips channel.
+1. [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) `46:06` - Jonathan Snook, Generate conf 2015 .
 
-- [View more about videos in wiki](https://github.com/sotayamashita/awesome-css/wiki#videos-tv)
+*[View more about videos in wiki](https://github.com/sotayamashita/awesome-css/wiki#videos-tv)*
 
 <sub>[⇧ back to top](#contenst)</sub>
 
