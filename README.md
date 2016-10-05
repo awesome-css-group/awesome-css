@@ -78,6 +78,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
 * [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
 * [Bootstrap](http://getbootstrap.com/) - Most popular HTML, CSS, and JS framework.
+* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
