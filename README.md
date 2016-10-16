@@ -230,6 +230,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Podcasts :radio:
 
