@@ -229,6 +229,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 ## Miscellaneous
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
+* [Can I use](http://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 
 <sub>[⇧ back to top](#contents)</sub>
 
