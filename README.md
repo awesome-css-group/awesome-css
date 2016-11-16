@@ -149,18 +149,19 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 ## Style Guide
 
-* [AUI](http://docs.atlassian.com/aui/latest/docs) by [Atlassian Design](https://design.atlassian.com/).
-* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by [lonely planet](http://www.lonelyplanet.com/).
-* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
+* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design.
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox.
+* [Fabric](https://dev.office.com/fabric#/) by Microsoft.
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
-* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by [Bobby Grace](https://twitter.com/bobbygrace).
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
-* [Patterns](http://ux.mailchimp.com/patterns) by [MailChimp](http://mailchimp.com/).
-* [Lighting Design System](https://www.lightningdesignsystem.com/) by [Salesforce](https://www.salesforce.com/).
-* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/)
+* [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce.
+* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
-* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by [Starbucks](http://www.starbucks.com/).
-* [Website Style Guide Resources](http://styleguides.io/examples.html) by [Awesome people](https://github.com/maban/styleguides/graphs/contributors).
+* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks.
+* [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people.
 
 Here is also great resource to understand. [Website style guide resource](http://styleguides.io/)
 
