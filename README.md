@@ -13,7 +13,12 @@
 
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
 
+
 #### Contents
+
+<details>
+
+<!-- toc -->
 
 - [CSS Working Group](#css-working-group)
 - [Parser](#parser-mag)
@@ -33,6 +38,10 @@
 - [Podcasts](#podcasts-radio)
 - [Twitter](#twitter-satellite)
 - [Videos](#videos-tv)
+
+<!-- tocstop -->
+
+</details>
 
 ## CSS Working Group
 
