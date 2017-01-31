@@ -115,6 +115,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
+- [SassySkeleton](https://github.com/lucasconstantino/sassyskeleton) - A boilerplate for better structured styles based on Sass & Compass.
 
 <sub>[⇧ back to top](#index)</sub>
 
