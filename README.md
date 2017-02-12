@@ -38,6 +38,7 @@
 - [Podcasts](#podcasts-radio)
 - [Twitter](#twitter-satellite)
 - [Videos](#videos-tv)
+- [Tutorials](#tutorials)
 
 <!-- tocstop -->
 
@@ -324,6 +325,12 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 <sub>[⇧ back to top](#contents)</sub>
 
+## Tutorials
+
+* [CSS Diner](https://flukeout.github.io/) – interactive gamified tutorial for learning selection with CSS
+* [CSS 101](http://www.css-101.org/) – detailed interactive tutorial with a lot of additional information (e.g. spec excerpts)
+
+<sub>[⇧ back to top](#contents)</sub>
 
 ## License
 
