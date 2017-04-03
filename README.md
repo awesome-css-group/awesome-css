@@ -62,7 +62,7 @@ CSS Working Group is defined CSS specifications which travel through the thier p
 * [Gonzales](https://github.com/css/gonzales) - Fast CSS parser
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
-* [PaserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib
+* [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib
 * [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers
