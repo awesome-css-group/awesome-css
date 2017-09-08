@@ -85,24 +85,9 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 ## Frameworks :art:
 
-* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
-* [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
-* [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
-* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
-* [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
-* [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
-* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
-* [Milligram](http://milligram.io) - A minimalist CSS framework. 
-* [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
-* [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
-* [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
-* [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-* [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
-* [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
-* [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
-* [Tachyons](http://tachyons.io/) - Functional css for humans.
-* [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
+* [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks categorized by topic.
+
+_[Find more CSS frameworks on wiki](https://github.com/sotayamashita/awesome-css/wiki#frameworks)_
 
 <sub>[⇧ back to top](#content)</sub>
 
