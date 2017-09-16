@@ -262,7 +262,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
-
+* [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 <sub>[⇧ back to top](#contents)</sub>
 
 
@@ -309,7 +309,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [Connor Sears](https://twitter.com/connors) - Designer at GitHub.
 * [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
 * [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
-
+* [Rachel Andrew](https://twitter.com/rachelandrew) - Web Developer, half of @grabaperch CMS, CSS Working Group Invited Expert.
 <sub>[⇧ back to top](#contents)</sub>
 
 
