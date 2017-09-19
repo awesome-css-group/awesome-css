@@ -350,7 +350,16 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 [sotayamashita]: https://github.com/sotayamashita
 [Rishabh04-02]:  https://github.com/Rishabh04-02
 
-[@sotayamashita], [@Rishabh04-02][Rishabh04-02] and You!
+[@sotayamashita][sotayamashita], [@Rishabh04-02][Rishabh04-02] and You!
+
+
+## Contribute
+
+[contributor-covenant]: https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
+
+Feel free to dive in! Open an issue or submit PRs.
+
+Awesoem CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
 
 ## License
@@ -358,3 +367,4 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
+
