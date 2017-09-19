@@ -4,12 +4,16 @@
 [travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
 [welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
 [welcome-link]:  https://github.com/sotayamashita/awesome-css/pulls
+[standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg
+[standard-readme-link]:   https://github.com/RichardLitt/standard-readme
 
-# Awesome CSS
+# Awesome CSS 
 
 [![Awesome][awesome-badge]][awesome-link]
 [![Travis Build Status][travis-badge]][travis-link]
 [![PRs & Issues Welcome][welcom-badge]][welcome-link]
+[![standard-readme compliant][standard-readme-badge]][standard-readme-link]
+
 
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
 
@@ -340,6 +344,14 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 * [CSS 101](http://www.css-101.org/) – detailed interactive tutorial with a lot of additional information (e.g. spec excerpts)
 
 <sub>[⇧ back to top](#contents)</sub>
+
+## Maintainers
+
+[sotayamashita]: https://github.com/sotayamashita
+[Rishabh04-02]:  https://github.com/Rishabh04-02
+
+[@sotayamashita], [@Rishabh04-02][Rishabh04-02] and You!
+
 
 ## License
 
