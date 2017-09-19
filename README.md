@@ -359,7 +359,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 Feel free to dive in! Open an issue or submit PRs.
 
-Awesoem CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
+Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
 
 ## License
