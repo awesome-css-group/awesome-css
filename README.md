@@ -190,7 +190,6 @@ Here is also great resource to understand. [Website style guide resource](http:/
 
 ## Style Guide Generators :slot_machine:
 
-- [Aigis](https://pxgrid.github.io/aigis/)
 - [Hologram](https://github.com/trulia/hologram)
 - [mdcss](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
