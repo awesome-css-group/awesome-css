@@ -348,8 +348,9 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 [sotayamashita]: https://github.com/sotayamashita
 [Rishabh04-02]:  https://github.com/Rishabh04-02
+[troxler]:       https://github.com/troxler
 
-[@sotayamashita][sotayamashita], [@Rishabh04-02][Rishabh04-02] and You!
+[@sotayamashita][sotayamashita], [@troxler][troxler], [@Rishabh04-02][Rishabh04-02] and You!
 
 
 ## Contribute
