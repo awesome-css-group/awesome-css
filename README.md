@@ -50,7 +50,7 @@
 
 ## CSS Working Group
 
-CSS Working Group is defined CSS specifications which travel through the thier process they achieve various [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels). If you would like to familier with CSS, visit [CSS Working Group Page](https://www.w3.org/Style/CSS/)
+The CSS Working Group defines CSS specifications which move through the their process as they achieve various [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels). If you would like to learn more, visit [CSS Working Group Page](https://www.w3.org/Style/CSS/).
 
 ### Editor's Draft :black_nib:
 
@@ -61,15 +61,15 @@ CSS Working Group is defined CSS specifications which travel through the thier p
 
 ## Parser :mag:
 
-* [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript
-* [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator
-* [Gonzales](https://github.com/css/gonzales) - Fast CSS parser
-* [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors
+* [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
+* [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
+* [Gonzales](https://github.com/css/gonzales) - Fast CSS parser.
+* [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
-* [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib
-* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-* [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js
-* [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers
+* [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
+* [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
+* [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
+* [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -90,7 +90,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 ## Frameworks :art:
 
 * [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
-* [Blueprint](http://www.blueprintcss.org/) - CSS framework who gives you an easy-to-use grid system, sensible typography, useful plugins and stylesheet for printing.
+* [Blueprint](http://www.blueprintcss.org/) - CSS framework which gives you an easy-to-use grid system, sensible typography, useful plugins and a stylesheet for printing.
 * [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
@@ -100,13 +100,13 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Milligram](http://milligram.io) - A minimalist CSS framework. 
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
-* [Semantic UI](http://semantic-ui.com/) - Powerful framework that use friendly-human html.
+* [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 * [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
-* [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework
+* [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
 * [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
-* [Tachyons](http://tachyons.io/) - Functional css for humans.
+* [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
@@ -115,8 +115,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Toolkits :wrench:
 
-* [Basscss](http://www.basscss.com/) - a lightweight collection of base element styles and immutable utilities.
-* [Bourbon](http://bourbon.io/) - simple and lightweight mixin library for Sass.
+* [Basscss](http://www.basscss.com/) - A lightweight collection of base element styles and immutable utilities.
+* [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 * [Corpus](http://jamiewilson.io/corpus/) - Yet another CSS toolkit.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
@@ -133,10 +133,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
-- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
+- [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
-- [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box
-- [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline
+- [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
+- [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
 <sub>[⇧ back to top](#index)</sub>
 
@@ -185,7 +185,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks.
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people.
 
-Here is also great resource to understand. [Website style guide resource](http://styleguides.io/)
+View more style guides at [Website Style Guide Resources](http://styleguides.io/).
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -233,7 +233,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 * [react-styled](https://github.com/bloodyowl/react-styled)
 * [react-with-styles](https://github.com/airbnb/react-with-styles)
 
-Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
+Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -264,7 +264,7 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 * [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front end web design, development, and UX.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
-* [The Big Web Show](http://5by5.tv/bigwebshow/) - topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
+* [The Big Web Show](http://5by5.tv/bigwebshow/) - Topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
@@ -341,8 +341,8 @@ Here is [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-
 
 ## Tutorials
 
-* [CSS Diner](https://flukeout.github.io/) – interactive gamified tutorial for learning selection with CSS
-* [CSS 101](http://www.css-101.org/) – detailed interactive tutorial with a lot of additional information (e.g. spec excerpts)
+* [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
+* [CSS 101](http://www.css-101.org/) – Detailed interactive tutorial with a lot of additional information (e.g. spec excerpts).
 
 <sub>[⇧ back to top](#contents)</sub>
 
