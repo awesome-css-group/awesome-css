@@ -150,7 +150,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo).
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
-* [Medium’s CSS is actually pretty f***ing good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
+* [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
 
@@ -369,4 +369,3 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
-
