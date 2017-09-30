@@ -56,8 +56,8 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 *Editor's drafts of CSS specifications*
 
-- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository
-- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository
+- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
+- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository.
 
 ## Parser :mag:
 
@@ -164,7 +164,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml) by Google.
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google.
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
 
 <sub>[⇧ back to top](#contents)</sub>
