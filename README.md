@@ -42,6 +42,7 @@
 - [Podcasts](#podcasts-radio)
 - [Twitter](#twitter-satellite)
 - [Videos](#videos-tv)
+- [Books](#books-books)
 - [Tutorials](#tutorials)
 
 <!-- tocstop -->
@@ -338,6 +339,20 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 *[View more about videos in wiki](https://github.com/sotayamashita/awesome-css/wiki#videos-tv)*
 
 <sub>[⇧ back to top](#contents)</sub>
+
+
+## Books :books:
+
+* [Beginning CSS](http://www.wrox.com/WileyCDA/WroxTitle/Beginning-CSS-Cascading-Style-Sheets-for-Web-Design-3rd-Edition.productCd-0470891521.html) - Wrox Publications
+* [CSS Cookbook](http://shop.oreilly.com/product/9780596155940.do) - O'Reilly Publications
+* [CSS Pocket Reference](http://shop.oreilly.com/product/0636920015055.do) - O'Reilly Publications
+* [CSS3 : The Missing Manual](http://shop.oreilly.com/product/0636920024996.do) - O'Reilly Publications
+* [Pro CSS3 Animations](http://www.apress.com/us/book/9781430247227) - Apress Publications
+* [The Ultimate CSS Reference](https://www.sitepoint.com/premium/books/the-ultimate-css-reference) - Sitepoint Publications
+
+
+<sub>[⇧ back to top](#contents)</sub>
+
 
 ## Tutorials
 
