@@ -25,14 +25,15 @@
 <!-- toc -->
 
 - [CSS Working Group](#css-working-group)
+- [Editor's Draft](#editors-draft-black_nib)
 - [Parser](#parser-mag)
 - [Preprocessors](#preprocessors-pill)
-- [Framework](#frameworks-art)
+- [Frameworks](#frameworks-art)
 - [Toolkits](#toolkits-wrench)
-- [Structure](#css-structure)
+- [CSS Structure](#css-structure)
 - [Reset & Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guideline](#code-style-guideline-book)
+- [Code Style Guidelines](#code-style-guidelines-book)
 - [Style Guide](#style-guide)
 - [Style Guide Generators](#style-guide-generators-slot_machine)
 - [Naming conventions & Methodologies](#naming-conventions--methodologies-bulb)
@@ -155,7 +156,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 <sub>[⇧ back to top](#contents)</sub>
 
-## Code Style Guideline :book:
+## Code Style Guidelines :book:
 
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
