@@ -71,7 +71,6 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
 * [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
-
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Preprocessors :pill:
@@ -85,7 +84,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 
 _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
 
-<sub>[⇧ back to top](#content)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Frameworks :art:
 
@@ -111,7 +110,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
 
-<sub>[⇧ back to top](#content)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Toolkits :wrench:
 
@@ -120,14 +119,14 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Corpus](http://jamiewilson.io/corpus/) - Yet another CSS toolkit.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## CSS Structure
 
 - [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
 - [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## Reset and Normalize
 
@@ -138,7 +137,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
-<sub>[⇧ back to top](#index)</sub>
+<sub>[⇧ back to top](#contents)</sub>
 
 ## CSS Development at Large-Scale Websites
 
@@ -269,6 +268,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast, and the accompanying blog, is all about keeping you updated with the latest in Open Source Technology.
 * [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+
 <sub>[⇧ back to top](#contents)</sub>
 
 
@@ -316,6 +316,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Remy Sharp](https://twitter.com/rem) - All about CSS sizing units.
 * [Jonathan Snook](https://twitter.com/snookca) - Designer, Developer, Writer, Speaker. I make stuff on the web. I wrote SMACSS.
 * [Rachel Andrew](https://twitter.com/rachelandrew) - Web Developer, half of @grabaperch CMS, CSS Working Group Invited Expert.
+
 <sub>[⇧ back to top](#contents)</sub>
 
 
