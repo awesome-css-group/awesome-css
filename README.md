@@ -42,7 +42,8 @@
 - [Podcasts](#podcasts-radio)
 - [Twitter](#twitter-satellite)
 - [Videos](#videos-tv)
-- [Tutorials](#tutorials)
+- [Books](#books-books)
+- [Tutorials](#tutorials-clapper)
 
 <!-- tocstop -->
 
@@ -340,7 +341,14 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 <sub>[⇧ back to top](#contents)</sub>
 
-## Tutorials
+## Books :books:
+
+* [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
+* [CSS3: The Missing Manual ](http://shop.oreilly.com/product/0636920024996.do) – Really Helpful in Advancing your Design Skills to a whole new Level
+
+<sub>[⇧ back to top](#contents)</sub>
+
+## Tutorials :clapper:
 
 * [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS 101](http://www.css-101.org/) – Detailed interactive tutorial with a lot of additional information (e.g. spec excerpts).
