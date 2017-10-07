@@ -344,8 +344,8 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Books :books:
 
-* [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems.
-* [CSS3: The Missing Manual ](http://shop.oreilly.com/product/0636920024996.do) – Really Helpful in Advancing your Design Skills to a whole new Level.
+* [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
+* [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
 
 <sub>[⇧ back to top](#contents)</sub>
 
