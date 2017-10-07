@@ -25,14 +25,15 @@
 <!-- toc -->
 
 - [CSS Working Group](#css-working-group)
+- [Editor's Draft](#editors-draft-black_nib)
 - [Parser](#parser-mag)
 - [Preprocessors](#preprocessors-pill)
-- [Framework](#frameworks-art)
+- [Frameworks](#frameworks-art)
 - [Toolkits](#toolkits-wrench)
-- [Structure](#css-structure)
+- [CSS Structure](#css-structure)
 - [Reset & Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guideline](#code-style-guideline-book)
+- [Code Style Guidelines](#code-style-guidelines-book)
 - [Style Guide](#style-guide)
 - [Style Guide Generators](#style-guide-generators-slot_machine)
 - [Naming conventions & Methodologies](#naming-conventions--methodologies-bulb)
@@ -156,7 +157,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 <sub>[⇧ back to top](#contents)</sub>
 
-## Code Style Guideline :book:
+## Code Style Guidelines :book:
 
 * [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
@@ -180,7 +181,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce.
-* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs
+* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs.
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
 * [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks.
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people.
@@ -241,7 +242,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## CSS Polyfills
 
 * [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
-* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell!
+* [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
 * [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
 * [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
 * [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
@@ -285,7 +286,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Guy Routledge](https://twitter.com/guyroutledge) - Front-end dev, Teacher @GA_London, Screencaster at http://www.atozcss.com, property snob, Foodie.
 * [Heydon Pickering](https://twitter.com/heydonworks) - Moderate consumer of rice. Also a UX designer, author, @smashingmag editor and programmer.
 * [Adam Morse](https://twitter.com/mrmrs_) - Advocate for users and open-source.
-* [Donovan Hutchinson](https://twitter.com/donovanh) - Designer, developer, writer. Occasionally blogs at http://Hop.ie , and currently building @cssanimation.
+* [Donovan Hutchinson](https://twitter.com/donovanh) - Designer, developer, writer. Occasionally blogs at http://Hop.ie, and currently building @cssanimation.
 * [CSS Commits](https://twitter.com/CSScommits) - Latest commits to @CSSWG’s public Mercurial repository.
 * [Scott Jehl](https://twitter.com/scottjehl) - Author of @responsiblerwd, now on sale from @abookapart.
 * [Dudley Storey](https://twitter.com/dudleystorey) - Web development writer, teacher, and speaker.
@@ -298,9 +299,9 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Phil Walton](https://twitter.com/philwalton) - Engineer at Google • Open Source Advocate • Developer • Designer • Writer.
 * [Lea Verou](https://twitter.com/LeaVerou) - Research Assistant @MIT_CSAIL, @CSSWG IE, @OReillyMedia author, Ex @W3C staff.
 * [Manoela Ilic](https://twitter.com/crnacura) - ...aka Mary Lou @codrops ༶ CSS & HTML are my crayons ༶ Interested in Cognitive Science, AI, HCI, UI Design & Astrophysics ༶ Digital nomad.
-* [Una Kravets](https://twitter.com/Una) - Front-end @IBMDesign. Sassvocate, community builder, & handcrafter. STEMinist :) Open source all the things!
+* [Una Kravets](https://twitter.com/Una) - Front-end @IBMDesign. Sassvocate, community builder, & handcrafter. STEMinist :) Open source all the things.
 * [Chris Coyier](https://twitter.com/chriscoyier) - Designer @CodePen. Writer @Real_CSS_Tricks.
-* [Nicole Sullivan](https://twitter.com/stubbornella) - GEEK!
+* [Nicole Sullivan](https://twitter.com/stubbornella) - GEEK.
 * [Eric Bidelman](https://twitter.com/ebidel) - Engineer at Google working on Chrome, web components, and Polymer.
 * [Patrick Hamann](https://twitter.com/patrickhamann) - Lover of mountains, craft beers and discovering new food.
 * [Dave McFarland](https://twitter.com/davemcfarland) - Web developer, author of CSS: The Missing Manual, JavaScript & jQuery.
@@ -327,15 +328,15 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ### 2016
 
-1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24` - Pete Hunt @ CSS conf 2016
-1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `29:27` - Jen Kramer @ CSS conf 2016
-1. [Houdini: Demystifying the Future of CSS](https://www.youtube.com/watch?v=sE3ttkP15f8) :watch: `36:58` @ Google I/O 2016
+1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24` - Pete Hunt @ CSS conf 2016.
+1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `29:27` - Jen Kramer @ CSS conf 2016.
+1. [Houdini: Demystifying the Future of CSS](https://www.youtube.com/watch?v=sE3ttkP15f8) :watch: `36:58` @ Google I/O 2016.
 
 ### 2015
 
 1. [mdo-ular CSS](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css) :watch: `30:06` - Mark Otto @ jQuery UK.
 1. [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) :watch: `30:15` - Caleb Meredith @ DevTips channel.
-1. [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015 .
+1. [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015.
 
 *[View more about videos in wiki](https://github.com/sotayamashita/awesome-css/wiki#videos-tv)*
 
