@@ -346,6 +346,8 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
+* [CSS in Depth](https://www.manning.com/books/css-in-depth) - CSS in Depth takes web developers from beginner to advanced CSS users, getting rid of their blind spots along the way.
+* [Web Performance in Action](https://www.manning.com/books/web-performance-in-action) - Web Performance in Action is your guide to making fast websites. Packed with "Aha!" moments and critical details, this book teaches you how to create performant websites the right way. 
 
 <sub>[⇧ back to top](#contents)</sub>
 
