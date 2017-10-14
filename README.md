@@ -7,7 +7,7 @@
 [standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg
 [standard-readme-link]:   https://github.com/RichardLitt/standard-readme
 
-# Awesome CSS 
+# Awesome CSS
 
 [![Awesome][awesome-badge]][awesome-link]
 [![Travis Build Status][travis-badge]][travis-link]
@@ -98,7 +98,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
-* [Milligram](http://milligram.io) - A minimalist CSS framework. 
+* [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
@@ -379,4 +379,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Awesome CSS  maintainers](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
