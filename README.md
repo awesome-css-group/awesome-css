@@ -108,6 +108,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
+* [Tacit](https://yegor256.github.io/tacit/) - Tacit is a CSS framework for dummies with zero skills of graphic design.
 * [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
