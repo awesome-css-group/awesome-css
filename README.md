@@ -238,6 +238,8 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [JSS](https://github.com/cssinjs/jss)
 * [react-styled](https://github.com/bloodyowl/react-styled)
 * [react-with-styles](https://github.com/airbnb/react-with-styles)
+* [styled-jsx](https://github.com/zeit/styled-jsx)
+* [styled-components](https://github.com/styled-components/styled-components)
 
 Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
