@@ -352,7 +352,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Books :books:
 
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
-* [CSS in Depth](https://www.manning.com/books/css-in-depth) – Great for Beginner and Advanced Web Developers
+* [CSS in Depth](https://www.manning.com/books/css-in-depth) – Covers beginner through advanced CSS, for those learning or needing a refresher
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
 
 <sub>[⇧ back to top](#contents)</sub>
