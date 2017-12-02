@@ -2,31 +2,30 @@
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
 [travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
-[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
-[welcome-link]:  https://github.com/sotayamashita/awesome-css/pulls
-[standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg
-[standard-readme-link]:   https://github.com/RichardLitt/standard-readme
 
-# Awesome CSS
-
-[![Awesome][awesome-badge]][awesome-link]
-[![Travis Build Status][travis-badge]][travis-link]
-[![PRs & Issues Welcome][welcom-badge]][welcome-link]
-[![standard-readme compliant][standard-readme-badge]][standard-readme-link]
-
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link]
 
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css'>
+<a rel='nofollow' href='https://app.codesponsor.io/link/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css.svg' />
 </a>
 
+## Introduction
 
-#### Contents
+### Motivation
 
-<details>
+This document is a curated list of awesome framework, style guide and other cool nuggets for the amazing CSS. It does not help everyone understand what CSS is not only find great cool stuffs.
 
-<!-- toc -->
+### Complementary Resources
+
+When you struggle to understand a notion, I suggest you look for answers on the following resources:
+
+- [CSS - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Reddit (CSS)](https://www.reddit.com/r/css/)
+- [StackOverflow (CSS)](https://stackoverflow.com/questions/tagged/css)
+
+## Table of Contents
 
 - [CSS Working Group](#css-working-group)
 - [Editor's Draft](#editors-draft-black_nib)
@@ -49,10 +48,6 @@
 - [Videos](#videos-tv)
 - [Books](#books-books)
 - [Tutorials](#tutorials-clapper)
-
-<!-- tocstop -->
-
-</details>
 
 ## CSS Working Group
 
@@ -381,7 +376,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 Feel free to dive in! Open an issue or submit PRs.
 
 Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
-
 
 ## License
 
