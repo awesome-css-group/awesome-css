@@ -85,26 +85,20 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 ## Frameworks :art:
 
-* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
-* [Blueprint](http://www.blueprintcss.org/) - CSS framework which gives you an easy-to-use grid system, sensible typography, useful plugins and a stylesheet for printing.
 * [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
-* [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-* [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
 * [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - Tacit is a CSS framework for dummies with zero skills of graphic design.
-* [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
 
