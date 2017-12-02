@@ -7,10 +7,6 @@
 
 > A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
 
-<a rel='nofollow' href='https://app.codesponsor.io/link/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css.svg' />
-</a>
-
 ## Introduction
 
 ### Motivation
