@@ -3,9 +3,9 @@
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
 [travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
 
-# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link]
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
 
-> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
+> /* A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS. */
 
 ## Introduction
 
@@ -378,3 +378,5 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Awesome CSS  maintainers](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
+
+# }
