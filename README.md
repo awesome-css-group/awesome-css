@@ -385,4 +385,4 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 To the extent possible under law, [Awesome CSS  maintainers](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
 
-# }
+**}**

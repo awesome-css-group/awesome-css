@@ -4,13 +4,10 @@
   "version": "1.0.0",
   "descritpion": "A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.",
   "scripts": {
-    "doctoc": "doctoc README.md --github"
+    "test": "doctoc README.md --github"
   },
   "devDependencies": {
     "doctoc": "^1.3.0",
     "pre-commit": "^1.2.2"
-  },
-  "pre-commit": [
-    "doctoc"
-  ]
+  }
 }
