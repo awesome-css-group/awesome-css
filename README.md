@@ -23,27 +23,38 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 
 ## Table of Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [CSS Working Group](#css-working-group)
-- [Editor's Draft](#editors-draft-black_nib)
-- [Parser](#parser-mag)
-- [Preprocessors](#preprocessors-pill)
-- [Frameworks](#frameworks-art)
-- [Toolkits](#toolkits-wrench)
+  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
+- [Parser :mag:](#parser-mag)
+- [Preprocessors :pill:](#preprocessors-pill)
+- [Frameworks :art:](#frameworks-art)
+- [Toolkits :wrench:](#toolkits-wrench)
 - [CSS Structure](#css-structure)
-- [Reset & Normalize](#reset-and-normalize)
+- [Reset and Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guidelines](#code-style-guidelines-book)
+- [Code Style Guidelines :book:](#code-style-guidelines-book)
 - [Style Guide](#style-guide)
-- [Style Guide Generators](#style-guide-generators-slot_machine)
-- [Naming conventions & Methodologies](#naming-conventions--methodologies-bulb)
+- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
+- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
 - [CSS in JS](#css-in-js)
 - [CSS Polyfills](#css-polyfills)
 - [Miscellaneous](#miscellaneous)
-- [Podcasts](#podcasts-radio)
-- [Twitter](#twitter-satellite)
-- [Videos](#videos-tv)
-- [Books](#books-books)
-- [Tutorials](#tutorials-clapper)
+- [Podcasts :radio:](#podcasts-radio)
+- [Twitter :satellite:](#twitter-satellite)
+- [Videos :tv:](#videos-tv)
+  - [2016](#2016)
+  - [2015](#2015)
+- [Books :books:](#books-books)
+- [Tutorials :clapper:](#tutorials-clapper)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## CSS Working Group
 

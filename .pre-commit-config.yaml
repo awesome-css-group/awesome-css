@@ -1,0 +1,4 @@
+repos:
+- repo: https://github.com/thlorenz/doctoc
+  hooks:
+  - id: doctoc
