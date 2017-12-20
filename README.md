@@ -178,7 +178,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox.
 * [Fabric](https://dev.office.com/fabric#/) by Microsoft.
-* [GitHub CSS Style Guide](http://primercss.io) by Github.
+* [GitHub CSS Style Guide](https://primer.github.io/) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
 * [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
