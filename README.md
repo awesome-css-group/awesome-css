@@ -379,10 +379,4 @@ Feel free to dive in! Open an issue or submit PRs.
 
 Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Awesome CSS  maintainers](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
-
 **}**
