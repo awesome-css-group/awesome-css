@@ -348,6 +348,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Books :books:
 
+* [CSS in Depth](https://www.manning.com/books/css-in-depth) - Become better at writing code that lasts and is understandable and performant.
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
 
