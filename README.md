@@ -297,7 +297,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Zoe M. Gillenwater](https://twitter.com/zomigi) - Web designer/developer specializing in CSS, RWD, UX, & accessibility.
 * [Ben Briggs](https://twitter.com/ben_eb) - Final year web technologies student. node.js, javascript, open source modules, client side optimisation, web performance.
 * [Paul Lewis](https://twitter.com/aerotwist) - Googler who noodles with code and design.
-* [Thierry Koblentz](https://twitter.com/thierrykoblentz) - CSSer @ Yahoo Only Tweeting Tech.
 * [Nicolas Gallagher](https://twitter.com/necolas) - Software Engineer at @twitter.
 * [Harry Roberts](https://twitter.com/csswizardry)- Consultant Front-end Architect: @google, @Etsy, @kickstarter, @BBC, @Deloitte, @FT, more.
 * [Phil Walton](https://twitter.com/philwalton) - Engineer at Google • Open Source Advocate • Developer • Designer • Writer.
