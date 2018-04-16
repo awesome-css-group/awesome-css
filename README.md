@@ -90,8 +90,6 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
-_[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-css/wiki#preprocessors)_
-
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Frameworks :art:
@@ -338,8 +336,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 1. [mdo-ular CSS](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css) :watch: `30:06` - Mark Otto @ jQuery UK.
 1. [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) :watch: `30:15` - Caleb Meredith @ DevTips channel.
 1. [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015.
-
-*[View more about videos in wiki](https://github.com/sotayamashita/awesome-css/wiki#videos-tv)*
 
 <sub>[⇧ back to top](#contents)</sub>
 
