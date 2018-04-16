@@ -120,7 +120,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Basscss](http://www.basscss.com/) - A lightweight collection of base element styles and immutable utilities.
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-* [Corpus](http://jamiewilson.io/corpus/) - Yet another CSS toolkit.
 * [Susy](http://susy.oddbird.net/) - Responsive layout toolkit for Sass.
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -137,7 +136,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 - [Normalize](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
 - [Normalize-OpenType](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [MiniReset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset.
-- [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - [sanitize.css](https://github.com/jonathantneal/sanitize.css/) - A set of CSS rules that style with today’s best practices out-of-the-box.
 - [unstyle.css](https://github.com/Martin-Pitt/css-unstyle) - Specialised stylesheet for removing user agent styles, style the web with your baseline.
 
