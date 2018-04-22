@@ -1,7 +1,7 @@
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
-[travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
+[travis-link]:   https://travis-ci.org/awesome-css-group/awesome-css
+[travis-badge]:  https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
 
 # Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
 
