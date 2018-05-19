@@ -21,6 +21,9 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 - [Reddit (CSS)](https://www.reddit.com/r/css/)
 - [StackOverflow (CSS)](https://stackoverflow.com/questions/tagged/css)
 
+<!-- Used for the "back to top" links within the document -->
+<div id="contents"></div>
+
 ## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
