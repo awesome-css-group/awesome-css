@@ -88,7 +88,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 * [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
-* [STYLIS](https://github.com/thysultan/stylis.js) - Light weight CSS preprocessor 
+* [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor 
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
 <sub>[⇧ back to top](#contents)</sub>
