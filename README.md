@@ -108,6 +108,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
+* [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox's utilities focused on making your life easier and faster with nested flexboxes
 * [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
