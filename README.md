@@ -149,7 +149,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
 * [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) by Shaun Bent
-* [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
@@ -356,7 +355,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Tutorials :clapper:
 
 * [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
-* [CSS 101](http://www.css-101.org/) – Detailed interactive tutorial with a lot of additional information (e.g. spec excerpts).
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - Simple tutorial to learn CSS Grid from Mozilla.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) - Top Recommended Resources.
