@@ -5,17 +5,17 @@
 
 # Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
 
-> /* A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS. */
+> /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
 ## Introduction
 
 ### Motivation
 
-This document is a curated list of awesome framework, style guide and other cool nuggets for the amazing CSS. It does not help everyone understand what CSS is not only find great cool stuffs.
+This document is a curated list of frameworks, style guides, and cool nuggets of information for writing awesome CSS. It does not contain resources to learn CSS.
 
 ### Complementary Resources
 
-When you struggle to understand a notion, I suggest you look for answers on the following resources:
+If you're struggling with something CSS-related, look for answers within the following resources:
 
 - [CSS - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Reddit (CSS)](https://www.reddit.com/r/css/)
@@ -61,45 +61,45 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 
 ## CSS Working Group
 
-The CSS Working Group defines CSS specifications which move through the their process as they achieve various [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels). If you would like to learn more, visit [CSS Working Group Page](https://www.w3.org/Style/CSS/).
+The CSS Working Group creates and defines CSS specifications. These specifications are assigned [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels) as they move through the design process. If you would like to learn more, visit [CSS Working Group Page](https://www.w3.org/Style/CSS/).
 
 ### Editor's Draft :black_nib:
 
 *Editor's drafts of CSS specifications*
 
 - [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - Mirror of CSS WG Editor Draft repository.
-- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Etidor repository.
+- [w3c/css-houdini-drafts](https://github.com/w3c/css-houdini-drafts) - Mirror of Houdini WG Editor repository.
 
-## Parser :mag:
+## Parsers :mag:
 
 * [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
 * [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
 * [Gonzales](https://github.com/css/gonzales) - Fast CSS parser.
-* [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
+* [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 * [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 * [Rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-* [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
+* [Stylecow](https://github.com/stylecow/stylecow) - Modern CSS for all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Preprocessors :pill:
 
-*Build CSS faster*
+*Write CSS faster*
 
-* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
+* [LESS](https://github.com/less/less.js) - Backwards compatible with CSS, and the extra features it adds use existing CSS syntax.
 * [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
-* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
-* [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor 
-* [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
+* [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
+* [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
+* [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Frameworks :art:
 
 * [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
-* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
+* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
@@ -108,12 +108,12 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
-* [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox's utilities focused on making your life easier and faster with nested flexboxes
+* [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
-* [Tacit](https://yegor256.github.io/tacit/) - Tacit is a CSS framework for dummies with zero skills of graphic design.
+* [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
 
 _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/troxler/awesome-css-frameworks)_
 
@@ -146,50 +146,50 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## CSS Development at Large-Scale Websites
 
-* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
-* [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
+* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
+* [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) by Shaun Bent
-* [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol).
-* [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett.
-* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo).
-* [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis.
-* [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
-* [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
+* [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol)
+* [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
+* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
+* [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
+* [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
+* [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 * [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
-* [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
+* [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Code Style Guidelines :book:
 
-* [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas).
-* [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho).
-* [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry).
-* [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel).
-* [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
-* [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp.
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google.
-* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress.
+* [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+* [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
+* [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
+* [Sass Guidelines](https://sass-guidelin.es/) by [Hugo Giraudel](https://twitter.com/HugoGiraudel)
+* [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
+* [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
+* [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress
 
 <sub>[⇧ back to top](#contents)</sub>
 
 ## Style Guide
 
-* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design.
-* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
-* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox.
-* [Fabric](https://dev.office.com/fabric#/) by Microsoft.
-* [GitHub CSS Style Guide](https://primer.github.io/) by Github.
-* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
-* [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
-* [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
-* [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce.
-* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs.
-* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
-* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks.
-* [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people.
+* [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
+* [Fabric](https://dev.office.com/fabric#/) by Microsoft
+* [GitHub CSS Style Guide](https://primer.github.io/) by Github
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
+* [Solid](http://solid.buzzfeed.com/) by BuzzFeed
+* [Patterns](http://ux.mailchimp.com/patterns) by MailChimp
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
+* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs
+* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
+* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks
+* [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
 
-View more style guides at [Website Style Guide Resources](http://styleguides.io/).
+View more style guides at [Website Style Guide Resources](http://styleguides.io/)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -249,8 +249,8 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [polyfill.js](https://github.com/philipwalton/polyfill/) - A library to make creating CSS polyfills much easier.
 * [prefixfree](https://github.com/LeaVerou/prefixfree) - Break free from CSS prefix hell.
 * [fixed-sticky](https://github.com/filamentgroup/fixed-sticky) - A CSS position:sticky polyfill.
-* [selectivizr](https://github.com/keithclark/selectivizr) - selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
-* [PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties.
+* [selectivizr](https://github.com/keithclark/selectivizr) - A JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+* [PIE](https://github.com/lojjic/PIE) - Allows Internet Explorer to recognize and render various CSS3 box decoration properties.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -268,8 +268,8 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 *Something to listen to while programming.*
 
-* [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front end web design, development, and UX.
-* [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on Style Guides, hosted by Anna Debenham and Brad Frost.
+* [Shop Talk Show](http://shoptalkshow.com/) - A live podcast with Chris Coyier and Dave Rupert about front-end web design, development, and UX.
+* [Style Guide Podcast](http://styleguides.io/podcast/index.html) - A small batch series of interviews on style guides, hosted by Anna Debenham and Brad Frost.
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - Topics like web publishing, art direction, content strategy, typography, web technology, and more. It's everything web that matters.
 * [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - Seeking out the best, brightest, and smartest creative people on digital art, design, and development.
@@ -310,7 +310,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Patrick Hamann](https://twitter.com/patrickhamann) - Lover of mountains, craft beers and discovering new food.
 * [Dave McFarland](https://twitter.com/davemcfarland) - Web developer, author of CSS: The Missing Manual, JavaScript & jQuery.
 * [L. David Baron](https://twitter.com/davidbaron) - Mozilla developer, CSS and W3C standards diplomat.
-* [Daniel Glazman](https://twitter.com/glazou)W3C CSS Working Group Co-chairman, entrepreneur, software engineer, geek, father of two, polyglot, duck lover. Nah. Tweets are strictly mine.
+* [Daniel Glazman](https://twitter.com/glazou) - W3C CSS Working Group Co-chairman, entrepreneur, software engineer, geek, father of two, polyglot, duck lover. Nah. Tweets are strictly mine.
 * [The Chris Eppstein](https://twitter.com/chriseppstein) - Loves love. Hates hate. Has a kick-ass family. Writes code. Leads stylesheet tech @LinkedIn.
 * [앗킨스 탭](https://twitter.com/tabatkins) - Literally Jenn Schiffer's Mom.
 * [Natalie Weizenbaum](https://twitter.com/nex3) - Trans coder lady. Lead designer/developer of @SassCSS, working for @google on @dart_lang.
@@ -328,7 +328,9 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Videos :tv:
 
-*A good study videos for CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css). [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
+*Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css).
+
+[I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
 
 ### 2016
 
