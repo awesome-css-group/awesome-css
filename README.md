@@ -102,7 +102,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [eFrolic](http://efrolicss.com/) - It is a CSS framework, which without using javascript is interactive and animated.
+* [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
 * [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
