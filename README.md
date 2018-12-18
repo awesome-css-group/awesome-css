@@ -98,7 +98,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 ## Frameworks :art:
 
-* [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
+* [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
@@ -183,11 +183,11 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed
-* [Patterns](http://ux.mailchimp.com/patterns) by MailChimp
+* [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
-* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks
+* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
 
 View more style guides at [Website Style Guide Resources](http://styleguides.io/)
@@ -259,7 +259,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Miscellaneous
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
-* [Can I use](http://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+* [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML 
