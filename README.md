@@ -32,7 +32,7 @@ If you're struggling with something CSS-related, look for answers within the fol
 
 - [CSS Working Group](#css-working-group)
   - [Editor's Draft :black_nib:](#editors-draft-black_nib)
-- [Parser :mag:](#parser-mag)
+- [Parser :mag:](#parsers-mag)
 - [Preprocessors :pill:](#preprocessors-pill)
 - [Frameworks :art:](#frameworks-art)
 - [Toolkits :wrench:](#toolkits-wrench)
