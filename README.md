@@ -259,6 +259,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+* [cssfx](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML 
