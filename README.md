@@ -102,7 +102,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Bootstrap](https://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox. Also has Sass import for modification.
 * [Butter Cake](http://getbuttercake.com/) - A Modern Lightweight Front End CSS framework for faster and easier web development.
-* [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure
+* [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
 * [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
