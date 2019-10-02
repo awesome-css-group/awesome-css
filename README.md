@@ -200,7 +200,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 - [Hologram](https://github.com/trulia/hologram)
 - [mdcss](https://github.com/jonathantneal/mdcss)
-- [Source](https://sourcejs.com/)
+- [Source](https://github.com/sourcejs/Source)
 - [styledoc](https://github.com/Joony/styledoc/)
 - [styledocco](https://github.com/jacobrask/styledocco)
 - [styledown](https://github.com/styledown/styledown)
