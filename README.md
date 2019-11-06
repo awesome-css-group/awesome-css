@@ -32,7 +32,7 @@ If you're struggling with something CSS-related, look for answers within the fol
 
 - [CSS Working Group](#css-working-group)
   - [Editor's Draft :black_nib:](#editors-draft-black_nib)
-- [Parser :mag:](#parsers-mag)
+- [Parsers :mag:](#parsers-mag)
 - [Preprocessors :pill:](#preprocessors-pill)
 - [Frameworks :art:](#frameworks-art)
 - [Toolkits :wrench:](#toolkits-wrench)
@@ -55,7 +55,6 @@ If you're struggling with something CSS-related, look for answers within the fol
 - [Tutorials :clapper:](#tutorials-clapper)
 - [Maintainers](#maintainers)
 - [Contribute](#contribute)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
