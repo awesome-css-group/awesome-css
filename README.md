@@ -367,6 +367,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) - Top Recommended Resources.
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/) -  A curated collection of useful CSS snippets you can understand in 30 seconds or less.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
+* [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 
 <sub>[⇧ back to top](#contents)</sub>
 
