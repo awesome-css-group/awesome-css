@@ -107,6 +107,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
 * [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
+* [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
