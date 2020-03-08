@@ -75,7 +75,6 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 
 * [CSSOM](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript.
 * [CSSTree](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator.
-* [Gonzales](https://github.com/css/gonzales) - Fast CSS parser.
 * [Gonzales PE](https://github.com/tonyganch/gonzales-pe) - CSS parser with support for preprocessors.
 * [mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 * [ParserLib](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
