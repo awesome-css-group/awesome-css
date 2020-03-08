@@ -105,7 +105,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Butter Cake](http://getbuttercake.com/) - A Modern Lightweight Front End CSS framework for faster and easier web development.
 * [Chota](https://jenil.github.io/chota/) - A responsive, customizable micro-framework (3kb) with helpful utilities and a grid system.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
-* [eFrolic](http://efrolicss.com/) - CSS framework which without using JavaScript is interactive and animated.
+* [eFrolic](https://efraa.github.io/eFrolic/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
