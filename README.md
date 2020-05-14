@@ -185,7 +185,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
-* [Fabric](https://dev.office.com/fabric#/) by Microsoft
+* [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed
@@ -265,7 +265,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-* [cssfx](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
