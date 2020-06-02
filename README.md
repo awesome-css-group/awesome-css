@@ -341,6 +341,10 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
 
+### 2019
+
+1. [Next-Generation Web Styling](https://www.youtube.com/watch?v=-oyeaIirVC0) - Una Kravets & Adam Argyle @ Chrome Dev Summit 2019.
+
 ### 2016
 
 1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) :page_facing_up: [transcript](https://2016.cssconf.com/) :watch: `37:24` - Pete Hunt @ CSS conf 2016.
