@@ -51,6 +51,7 @@ If you're struggling with something CSS-related, look for answers within the fol
 - [Podcasts :radio:](#podcasts-radio)
 - [Twitter :satellite:](#twitter-satellite)
 - [Videos :tv:](#videos-tv)
+  - [2019](#2019)
   - [2016](#2016)
   - [2015](#2015)
 - [Books :books:](#books-books)
