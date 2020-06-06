@@ -5,7 +5,7 @@
 [HitCounter-link]: http://hits.dwyl.io/awesome-css-group/awesome-css
 [HitCounter-badge]: http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link] {
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link]
 
 > /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
@@ -340,6 +340,10 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 *Good study videos from CSS Must Watch Videos. Some items are quoted from [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css).
 
 [I told him on Twitter](https://twitter.com/sota0805/status/527635856031375360). I appreciate his valuable efforts.*
+
+### 2019
+
+1. [Next-Generation Web Styling](https://www.youtube.com/watch?v=-oyeaIirVC0) - Una Kravets & Adam Argyle @ Chrome Dev Summit 2019.
 
 ### 2016
 
