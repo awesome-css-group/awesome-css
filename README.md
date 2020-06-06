@@ -5,7 +5,7 @@
 [HitCounter-link]: http://hits.dwyl.io/awesome-css-group/awesome-css
 [HitCounter-badge]: http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link] {
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link]
 
 > /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
