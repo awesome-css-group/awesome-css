@@ -109,6 +109,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [eFrolic](https://efraa.github.io/eFrolic/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Gralig](http://gralig.com/) - A modest, grayish CSS library.
+* [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework with a built-in dark mode.
 * [Hasser CSS](https://github.com/HeavenMercy/HasserCSS) - A lightweight (12k, not minified) but useful CSS framework with flexible Grid, Hero and more.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
