@@ -249,7 +249,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [react-with-styles](https://github.com/airbnb/react-with-styles)
 * [styled-jsx](https://github.com/zeit/styled-jsx)
 * [styled-components](https://github.com/styled-components/styled-components)
-* [stylin](https://github.com/sultan99)
+* [stylin](https://github.com/sultan99/stylin)
 
 Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 
