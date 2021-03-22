@@ -2,10 +2,8 @@
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/awesome-css-group/awesome-css
 [travis-badge]:  https://travis-ci.org/awesome-css-group/awesome-css.svg?branch=master
-[HitCounter-link]: http://hits.dwyl.io/awesome-css-group/awesome-css
-[HitCounter-badge]: http://hits.dwyl.io/awesome-css-group/awesome-css.svg
 
-# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] [![HitCount][HitCounter-badge]][HitCounter-link]
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] 
 
 > /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
