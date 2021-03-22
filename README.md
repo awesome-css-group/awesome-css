@@ -105,7 +105,6 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Charts.css](https://chartscss.org/) - CSS data visualization framework.
 * [Chota](https://jenil.github.io/chota/) - A responsive, customizable micro-framework (3kb) with helpful utilities and a grid system.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) - A fully responsive and comprehensive CSS framework with beautiful controls and simplistic structure.
-* [eFrolic](https://efraa.github.io/eFrolic/) - CSS framework which without using JavaScript is interactive and animated.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Gralig](http://gralig.com/) - A modest, grayish CSS library.
 * [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework with a built-in dark mode.
