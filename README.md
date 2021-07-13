@@ -273,7 +273,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 * [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
-* * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
+* [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 
 
 <sub>[⇧ back to top](#contents)</sub>
