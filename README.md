@@ -112,6 +112,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
+* [Tronic247 Material](https://material.pages.dev/) - A responsive framework based on CSS and some JS while following Material Design guidelines.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
