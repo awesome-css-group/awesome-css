@@ -122,6 +122,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
+* [Tronic247 Material](https://material.pages.dev/) - A responsive framework based on CSS and some JS while following Material Design guidelines.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Wing](https://kbrsh.github.io/wing/) - A Minimal, Lightweight, Responsive framework.
