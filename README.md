@@ -30,32 +30,37 @@ If you're struggling with something CSS-related, look for answers within the fol
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [CSS Working Group](#css-working-group)
-  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
-- [Parsers :mag:](#parsers-mag)
-- [Preprocessors :pill:](#preprocessors-pill)
-- [Frameworks :art:](#frameworks-art)
-- [Toolkits :wrench:](#toolkits-wrench)
-- [CSS Structure](#css-structure)
-- [Reset and Normalize](#reset-and-normalize)
-- [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guidelines :book:](#code-style-guidelines-book)
-- [Style Guide](#style-guide)
-- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
-- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
-- [CSS in JS](#css-in-js)
-- [CSS Polyfills](#css-polyfills)
-- [Miscellaneous](#miscellaneous)
-- [Podcasts :radio:](#podcasts-radio)
-- [Twitter :satellite:](#twitter-satellite)
-- [Videos :tv:](#videos-tv)
-  - [2019](#2019)
-  - [2016](#2016)
-  - [2015](#2015)
-- [Books :books:](#books-books)
-- [Tutorials :clapper:](#tutorials-clapper)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
+- [Awesome CSS ![Awesome](#awesome-css-awesomeawesome-link-travis-build-statustravis-badgetravis-link)
+  - [Introduction](#introduction)
+    - [Motivation](#motivation)
+    - [Complementary Resources](#complementary-resources)
+  - [Table of Contents](#table-of-contents)
+  - [CSS Working Group](#css-working-group)
+    - [Editor's Draft :black_nib:](#editors-draft-black_nib)
+  - [Parsers :mag:](#parsers-mag)
+  - [Preprocessors :pill:](#preprocessors-pill)
+  - [Frameworks :art:](#frameworks-art)
+  - [Toolkits :wrench:](#toolkits-wrench)
+  - [CSS Structure](#css-structure)
+  - [Reset and Normalize](#reset-and-normalize)
+  - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
+  - [Code Style Guidelines :book:](#code-style-guidelines-book)
+  - [Style Guide](#style-guide)
+  - [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
+  - [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
+  - [CSS in JS](#css-in-js)
+  - [CSS Polyfills](#css-polyfills)
+  - [Miscellaneous](#miscellaneous)
+  - [Podcasts :radio:](#podcasts-radio)
+  - [Twitter :satellite:](#twitter-satellite)
+  - [Videos :tv:](#videos-tv)
+    - [2019](#2019)
+    - [2016](#2016)
+    - [2015](#2015)
+  - [Books :books:](#books-books)
+  - [Tutorials :clapper:](#tutorials-clapper)
+  - [Maintainers](#maintainers)
+  - [Contribute](#contribute)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -386,6 +391,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 * [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 * [CSS Grids videos tutorial](https://cssgrid.io/) - Free video course by Wes Bos to learn CSS Grids.
+* [The Grid Mastery Game](https://gridcritters.com/) - Fun video course to master CSS Grid
 
 <sub>[⇧ back to top](#contents)</sub>
 
