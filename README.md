@@ -199,6 +199,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
+* [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 
 View more style guides at [Website Style Guide Resources](http://styleguides.io/)
 
