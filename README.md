@@ -199,7 +199,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
-* [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 
 View more style guides at [Website Style Guide Resources](http://styleguides.io/)
 
@@ -270,14 +269,15 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
-* [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
-* [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
-* [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
-* [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+* [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 * [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
+* [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
+* [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
+* [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
+* [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 <sub>[⇧ back to top](#contents)</sub>
 
