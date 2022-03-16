@@ -20,7 +20,8 @@ Furthermore, please ensure your pull request follows the following guidelines:
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Please make an individual pull request for each suggestion.
 * Use the following format for libraries: \[LIBRARY\]\(LINK\) - DESCRIPTION.
-* Entries should be sorted in ascending alphabetical order, i.e. a to z.
+* Entries should be sorted in ascending alphabetical order and with the first letter uppercase, i.e. a to z.
+* The first letter of an entry should be always capitalized.
 * New categories, or improvements to the existing categorization are welcome.
 * Keep descriptions short, simple and unbiased.
 * End all descriptions with a full stop/period.
