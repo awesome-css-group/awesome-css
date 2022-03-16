@@ -171,7 +171,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
-* [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 * [Sass Guidelines](https://sass-guidelin.es/) by [Kitty Giraudel](https://twitter.com/KittyGiraudel)
 * [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
@@ -270,7 +270,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-* [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+* [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 <sub>[⇧ back to top](#contents)</sub>
 
