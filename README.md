@@ -36,7 +36,6 @@ If you're struggling with something CSS-related, look for answers within the fol
 - [Preprocessors :pill:](#preprocessors-pill)
 - [Frameworks :art:](#frameworks-art)
 - [Toolkits :wrench:](#toolkits-wrench)
-- [CSS Structure](#css-structure)
 - [Reset and Normalize](#reset-and-normalize)
 - [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
 - [Code Style Guidelines :book:](#code-style-guidelines-book)
@@ -138,13 +137,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 <sub>[⇧ back to top](#contents)</sub>
 
-## CSS Structure
-
-- [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
-- [RSCSS](https://github.com/rstacruz/rscss) - Reasonable Standard for CSS Stylesheet Structure.
-
-<sub>[⇧ back to top](#contents)</sub>
-
 ## Reset and Normalize
 
 - [CSS Checker](https://github.com/ruilisi/css-checker) - Find and Reduce Similar & Duplicated CSS Scripts.
@@ -167,9 +159,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
-* [Scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
-* [scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
+* [Scalable-css-reading-list](https://github.com/davidtheclark/scalable-css-reading-list)
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -178,9 +169,12 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Code Guide](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo)
 * [CSS Guidelines](http://cssguidelin.es/) by [Harry Roberts](https://twitter.com/csswizardry)
 * [CSS Styleguide](https://github.com/grvcoelho/css) by [Guilherme Rv Coelho](https://github.com/grvcoelho)
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) by Google
-* [idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [Nicolas Gallagher](https://twitter.com/necolas)
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 * [Sass Guidelines](https://sass-guidelin.es/) by [Kitty Giraudel](https://twitter.com/KittyGiraudel)
+* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [ThinkUp CSS Style Guide](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) by ThinkUp
 * [WordPress CSS Coding Standards](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/) by WorldPress
 
@@ -190,13 +184,10 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
-* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
 * [GitHub CSS Style Guide](https://primer.github.io/) by Github
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
-* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
-* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed
 * [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
@@ -224,7 +215,6 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [Atomic Design](http://patternlab.io/resources.html)
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
-* [idiomatic-css](https://github.com/necolas/idiomatic-css)
 * [ITCSS](http://itcss.io/)
 * [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
@@ -280,7 +270,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
-* [xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
+* [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
 
 <sub>[⇧ back to top](#contents)</sub>
 
