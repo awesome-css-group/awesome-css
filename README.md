@@ -375,6 +375,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Tutorials :clapper:
 
 * [30 Seconds of CSS](https://www.30secondsofcode.org/css/p/1) -  A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+* [All selectors in CSS](https://medium.com/@ymzEmre/css-cascade-specificity-basic-selectors-c5adc01dd861) - All selectors in CSS.
 * [Community Curated CSS Resources](https://hackr.io/tutorials/learn-css) - Top Recommended Resources.
 * [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - Simple tutorial to learn CSS Grid from Mozilla.
@@ -383,7 +384,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
-* [All selectors in CSS](https://medium.com/@ymzEmre/css-cascade-specificity-basic-selectors-c5adc01dd861) - All selectors in CSS.
 
 <sub>[⇧ back to top](#contents)</sub>
 
