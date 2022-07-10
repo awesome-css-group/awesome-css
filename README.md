@@ -264,6 +264,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 ## Miscellaneous
 
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+* [CSS Zen Garden](http://www.csszengarden.com/) - A showcase of how CSS can style the same HTML code in different ways.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 * [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
