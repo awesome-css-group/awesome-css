@@ -384,6 +384,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
+* [Free CSS courses](https://skillcombo.com/topic/css/free/) - A curated list of free CSS courses.
 
 <sub>[⇧ back to top](#contents)</sub>
 
