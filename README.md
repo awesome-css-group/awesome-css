@@ -369,6 +369,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [CSS: The Missing Manual](http://shop.oreilly.com/product/0636920036357.do) – Really Helpful in Advancing your Design Skills to a whole new Level
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
 * [Every Layout: Relearn CSS Layout](https://every-layout.dev/) – Solving responsive layout problems using algorithmic design.
+* [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects) – Improve the way you write CSS as you build 12 tiny projects.
 
 <sub>[⇧ back to top](#contents)</sub>
 
