@@ -91,6 +91,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional-grade CSS extension language.
 * [STYLIS](https://github.com/thysultan/stylis.js) - Light-weight CSS preprocessor.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for NodeJs.
+* [Vanilla Extract](https://vanilla-extract.style/) - Generate static CSS using Typescript. Write type‑safe, locally scoped classes, variables and themes.
 
 <sub>[⇧ back to top](#contents)</sub>
 
