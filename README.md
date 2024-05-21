@@ -263,6 +263,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
+* [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
