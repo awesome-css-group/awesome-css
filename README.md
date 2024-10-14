@@ -134,7 +134,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-* [Susy](https://www.oddbird.net/susy/) - Responsive layout toolkit for Sass.
 
 <sub>[⇧ back to top](#contents)</sub>
 
