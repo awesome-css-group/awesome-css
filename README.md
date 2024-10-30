@@ -370,6 +370,8 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do) – Better Solutions to Everyday Web Design Problems
 * [Every Layout: Relearn CSS Layout](https://every-layout.dev/) – Solving responsive layout problems using algorithmic design.
 * [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects) – Improve the way you write CSS as you build 12 tiny projects.
+- [Web Design Playground, Second Edition](https://www.manning.com/books/web-design-playground-second-edition) – Written by web designer and master teacher Paul McFedries, this unique book shapes and sharpens your skills in the always-relevant technologies of the web.
+- [CSS in Depth, Second Edition](https://www.manning.com/books/css-in-depth-second-edition) – Book about the CSS techniques used by the world’s most skilled web developers.
 
 <sub>[⇧ back to top](#contents)</sub>
 
