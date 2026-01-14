@@ -28,4 +28,11 @@ Furthermore, please ensure your pull request follows the following guidelines:
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
 
+## Review Process and Expectations
+
+* All pull requests are reviewed by the maintainers on a best-effort basis. Please note that reviews may take some time depending on availability.
+* If your pull request is not accepted, it does not necessarily mean the suggestion lacks value. Reasons may include duplication, scope mismatch, or alignment with the project’s curation goals.
+* Contributors are encouraged to participate in existing discussions or open a new issue before submitting a pull request if they are unsure whether a suggestion fits the list.
+* Please be respectful and patient during the review process. Constructive discussion and iteration are welcome.
+
 Thank you for your suggestions!
