@@ -272,7 +272,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
 * [Xpath-to-selector](https://github.com/steambap/xpath-to-selector) - Convert xpath to css selector.
-* [ZapTools CSS Generators](https://zaptools.web.app) - Free browser-based CSS generators and utilities: gradient, box-shadow, border-radius, flexbox, grid, clip-path, filter, animation, CSS units converter, color tools, and CSS minifier.
+* [ZapTools CSS Generators](https://zaptools.web.app) - 12 free browser-based CSS generators: gradient, box-shadow, text-shadow, border-radius, clip-path, glassmorphism, cubic-bezier, triangle, loader, pattern, PX-to-REM converter, and CSS minifier.
 
 <sub>[⇧ back to top](#contents)</sub>
 
