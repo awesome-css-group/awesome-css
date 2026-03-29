@@ -115,6 +115,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Numl](https://numl.design) - An HTML-based language and design system that lets you create responsive and accessible high-quality web interfaces with any look.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
+* [SantyCss](https://santycss.santy.in) - India's first utility-first CSS framework with plain-English class names. 8,500+ classes, zero build step.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
 * [Shorthand Framework](https://github.com/shorthandcss/shorthand) - Feature rich CSS framework for the new decade.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
