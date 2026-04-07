@@ -7,6 +7,7 @@
 
 > /* A curated list of awesome frameworks, style guides, and other cool nuggets for writing amazing CSS. */
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CSS workflow automation, automated stylesheet pipeline orchestration, and multi-agent coordination. MIT licensed.
 ## Introduction
 
 ### Motivation
