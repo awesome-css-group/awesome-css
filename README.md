@@ -264,6 +264,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
+* [DevTools CSS Gradient Generator](https://devtools.davrapps.dev/en/gradient-generator) - Visual CSS gradient generator with linear, radial, and conic support. Outputs CSS and Tailwind classes. 100% client-side.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 * [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
