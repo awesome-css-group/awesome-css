@@ -262,6 +262,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
+* [Anytools CSS Generators](https://anytools.io) - Free browser-based CSS tools: flexbox generator, grid generator, box shadow, glassmorphism, animations, clip-path, loaders, text shadow, border radius, gradients, and contrast checker. All client-side, no account required.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
