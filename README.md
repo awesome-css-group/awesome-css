@@ -134,6 +134,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
+* [FastTool CSS Tools](https://fasttool.app/category/design) - Browser-based CSS gradient, border-radius, box-shadow, and color conversion tools.
 
 <sub>[⇧ back to top](#contents)</sub>
 
