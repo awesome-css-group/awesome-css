@@ -134,6 +134,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
+* [UI IP Toolkit](https://github.com/ikerperez12/UI-IP-Toolkit-v4.0) - A standalone static visual catalog of copy-ready CSS and JS component snippets.
 
 <sub>[⇧ back to top](#contents)</sub>
 
