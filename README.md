@@ -268,6 +268,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Glassmorphism CSS Generator](https://ui.glass/generator/) - Generate CSS for glassmorphism.
 * [GradientArt](https://gra.dient.art/) - An advanced CSS gradient editor with layering, design tools and free cloud storage.
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - Magic CSS extension for Chrome, Firefox and Edge.
+* [PX to REM Converter](https://csstoolkit.net/px-to-rem/) - Converts pixel values to rem and back in bulk, runs entirely in the browser with no signup, and no tracking.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that uses selectors to find bad markup, displaying ugly pink error messages in comic sans serif wherever you write bad HTML
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject) - One `<div>`. Many possibilities.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - CSS alternatives for common JS UI components.
