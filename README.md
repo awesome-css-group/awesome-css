@@ -262,6 +262,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 
 ## Miscellaneous
 
+* [Animation Handbook](https://matinmonshizadeh.github.io/animation-handbook/) - Web animation techniques, each with a live demo, plain settings and a prompt for AI assistants.
 * [Beautiful CSS box-shadow examples](https://getcssscan.com/css-box-shadow-examples) - Curated collection of 93 beautiful CSS box-shadow. Click to copy.
 * [Can I use](https://caniuse.com/) - Browser support for CSS, HTML5 and other front-end web technologies.
 * [Flexbox Patterns](https://flexboxpatterns.com/) by cjcenizal
