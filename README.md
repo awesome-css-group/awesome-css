@@ -121,6 +121,7 @@ The CSS Working Group creates and defines CSS specifications. These specificatio
 * [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - CSS framework for dummies with zero skills in graphic design.
+* [Tactile UI](https://tactileui.dev) - A component library and UI kit of 210 parts, with React, Vue, Svelte and plain JS wrappers.
 * [Tailwindcss](https://github.com/tailwindcss/tailwindcss) - A utility-first CSS framework for rapid UI development.
 * [Tronic247 Material](https://material.pages.dev/) - A responsive framework based on CSS and some JS while following Material Design guidelines.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
