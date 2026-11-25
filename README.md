@@ -154,6 +154,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) by Shaun Bent
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
+* [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
 * [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)
@@ -384,7 +385,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 
 <sub>[⇧ back to top](#contents)</sub>
-
 
 ## Maintainers
 
