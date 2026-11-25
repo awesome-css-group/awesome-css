@@ -152,10 +152,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## CSS Development at Large-Scale Websites
 
-* [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) by Shaun Bent
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett
-* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo)
 * [How we do CSS at Ghost](https://dev.ghost.org/css-at-ghost/) by Paul Davis
 * [Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather)
 * [Medium’s CSS is actually pretty good.](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat)
@@ -189,7 +187,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce
 * [Patterns](https://ux.mailchimp.com/patterns) by MailChimp
 * [Solid](http://solid.buzzfeed.com/) by BuzzFeed
-* [Style Guide](https://www.starbucks.com/static/reference/styleguide/) by Starbucks
 * [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people
 
 View more style guides at [Website Style Guide Resources](http://styleguides.io/)
@@ -216,11 +213,9 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
 * [ITCSS](http://itcss.io/)
-* [Kickoff CSS](http://trykickoff.com/learn/css.html#namingscheme)
 * [MaintainableCSS](http://maintainablecss.com)
 * [NCSS](https://ncss.io)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
-* [Point North](http://pointnorth.io/#base-browser-styling)
 * [RSCSS](https://rscss.io/)
 * [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
 * [Title CSS](https://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
@@ -288,7 +283,6 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.,typography,web technology
 * [The Big Web Show](http://5by5.tv/bigwebshow/) - Topics like web publishing,is all about keeping you updated with the latest in Open Source Technology.
 * [The Changelog](https://changelog.com/) - The tagline for the Changelog says it all: “Open Source moves fast. Keep up.” This podcast,and more. It's everything web that matters.
-* [The Web Ahead](http://5by5.tv/webahead/) - Conversations with world experts on changing technologies and future of the web.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -387,6 +381,7 @@ Here is a [CSS in JS techniques comparison](https://github.com/MicheleBertoli/cs
 * [CSS Math Functions](https://stackdiary.com/css-math-functions/) - Using CSS Math for responsive design.
 * [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox.
 * [Organize CSS with a Modular Architecture: OOCSS, BEM, SMACSS](https://snipcart.com/blog/organize-css-modular-architecture) - In-depth intro to OOCSS, BEM, SMACSS, with examples.
+* [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 * [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 
 <sub>[⇧ back to top](#contents)</sub>
